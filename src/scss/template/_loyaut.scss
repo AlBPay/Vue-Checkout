@@ -1,0 +1,123 @@
+// stylelint-disable-next-line selector-max-id
+#f {
+  font-family: $font-family-inter;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: $main_color;
+  background-color: $main_bg;
+}
+
+.f-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: $container_bg;
+}
+
+.f-loyaut {
+  height: 100%;
+}
+
+.f-demo-desc {
+  font-size: px-to-rem(14px);
+  text-align: center;
+}
+
+.f-header {
+  display: flex;
+  min-height: px-to-rem(24px);
+  background: $container_bg;
+}
+
+.f-header-logo {
+  height: $header-height;
+  display: flex;
+  flex: 0 0 50%;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 50%;
+  padding: px-to-rem(24px) 0 0 px-to-rem(20px);
+
+  // stylelint-disable-next-line selector-max-id
+  html #f.f-embed & {
+    height: auto;
+    padding-top: 0;
+  }
+}
+
+.f-header-menu {
+  height: $header-height;
+  display: flex;
+  flex: 0 0 50%;
+  align-items: center;
+  justify-content: flex-end;
+  max-width: 50%;
+  padding: px-to-rem(24px) px-to-rem(20px) 0 0;
+}
+
+.f-wrapper {
+  position: relative;
+  height: calc(100% - #{$header-height});
+
+  // stylelint-disable-next-line selector-max-id
+  html #f.f-embed & {
+    min-height: 500px;
+  }
+}
+
+.f-top {
+  background-image: linear-gradient(
+    to bottom,
+    $container_bg,
+    fade($container_bg, 0)
+  );
+  @include sticky-top;
+}
+
+.f-top-inner {
+  height: px-to-rem(24px);
+}
+
+.f-center-wrap {
+  display: flex;
+  flex-direction: column;
+  padding: 0 px-to-rem(20px);
+}
+
+.f-logo {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  color: $logo_color;
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  background-size: contain;
+
+  svg {
+    width: px-to-rem(100px);
+    height: px-to-rem(23px);
+  }
+}
+
+.f-button-pay {
+  margin-bottom: px-to-rem(16px);
+  font-weight: 400;
+}
+
+.f-btn-methods {
+  left: -(px-to-rem(8px));
+  display: flex;
+  align-items: center;
+  padding: px-to-rem(8px) px-to-rem(8px);
+}
+
+.f-security {
+  padding-bottom: (20px);
+  margin-top: auto;
+  text-align: center;
+
+  .f-method-wallets & {
+    display: none;
+  }
+}

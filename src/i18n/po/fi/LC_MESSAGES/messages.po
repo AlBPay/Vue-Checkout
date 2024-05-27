@@ -1,0 +1,652 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 16:50+0300\n"
+"PO-Revision-Date: 2020-09-30 10:39+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "card"
+msgstr "Kortti"
+
+msgid "sepa"
+msgstr "SEPA-suoraveloitus"
+
+msgid "banklinks_eu"
+msgstr "Verkkopankki"
+
+msgid "receipt"
+msgstr "Pankkisiirto"
+
+msgid "local_methods"
+msgstr "Paikalliset maksutavat"
+
+msgid "loans"
+msgstr "Verkkomaksuerät"
+
+msgid "emoney"
+msgstr "Digitaalinen lompakko"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr ""
+
+msgid "day"
+msgstr "Päivä"
+
+msgid "week"
+msgstr "Viikko"
+
+msgid "month"
+msgstr "Kuukausi"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr ""
+"Käytämme tällä verkkosivustolla evästeitä parantaaksemme "
+"verkkomaksukokemustasi."
+
+msgid "learn_more"
+msgstr "Lue lisää"
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "Tallentaa korttini tulevia maksuja varten"
+
+msgid "its_safe"
+msgstr "Se on turvallista"
+
+msgid "gdpr_modal_safe_title"
+msgstr ""
+"Korttitietosi on tokenoitu, mikä tekee siitä turvallista ja kätevää "
+"toistuviin ostoihin"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>Emme tallenna korttitietojasi niitä syöttäessäsi. Itse asiassa me heti "
+"salaamme korttitiedot ja tallennamme ne tokenoidussa muodossa. Tokenit ovat "
+"sattunaisia numero- ja merkkiyhdistelmiä.<p>Aina kun teet toisen maksun, "
+"Alliance bank käyttää tokeneita korttitietojen sijasta, jotta mahdollinen huijari ei "
+"pysty sieppaamaan niitä. Token-tiedoilla ei ole arvoa Alliance bank-maksupalvelun "
+"ulkopuolella."
+
+msgid "close"
+msgstr "Sulkea"
+
+msgid "not_now"
+msgstr "Ei nyt"
+
+msgid "accept"
+msgstr "Hyväksyn"
+
+msgid "cancel"
+msgstr ""
+
+msgid "pay"
+msgstr "Maksaa"
+
+msgid "demo-desc"
+msgstr ""
+"Tämä on esitysjärjestelmä. Vaikka voit syöttää tietoja, maksua ei käsitellä."
+
+msgid "expires_on"
+msgstr "Viimeinen voimassaolopäivä"
+
+msgid "approved"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "use_other_card"
+msgstr "Syötä toinen kortti"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "Kortin vahvistus"
+
+msgid "see_more"
+msgstr "Näytä kaikki"
+
+msgid "order_details"
+msgstr "Tilauksen tiedot"
+
+msgid "submit3ds_title"
+msgstr "Maksu jäi kesken"
+
+msgid "submit3ds_text"
+msgstr "Syötä toinen vahvistuskoodi"
+
+msgid "submit3ds_submit"
+msgstr "Yritä uudelleen"
+
+msgid "submit3ds_wait"
+msgstr ""
+"Sinut siirretään pankin verkkosivustolle suorittamaan maksu {0} sekunnin "
+"kuluttua"
+
+msgid "server_trouble_title"
+msgstr "Oho..."
+
+msgid "server_trouble_desc"
+msgstr ""
+"Virhe on tapahtunut, ja pyrimme jo korjaamaan sitä. Palaa tilaukseesi ja "
+"suorita maksu uudelleen."
+
+msgid "offer_t"
+msgstr "Hyväksyn <a href=\"{0}\" target=\"_blank\">tilauksen käyttöehdot. </a>"
+
+msgid "trial_period"
+msgstr "Koeaika"
+
+msgid "first_payment"
+msgstr "Ensimmäinen maksu"
+
+msgid "amount"
+msgstr "Maksun eräpäivä"
+
+msgid "discount"
+msgstr "alennus"
+
+msgid "fee"
+msgstr "Käsittelykulut"
+
+msgid "total_amount"
+msgstr "Kokonaissumman maksun eräpäivä"
+
+msgid "enter_promo_code"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "security_title"
+msgstr "Vahva asiakastunnistus"
+
+msgid "security_text"
+msgstr ""
+"<p>PCI DSS:n mukainen<p>Listattu Visa Global Registryssä ja varmistettu "
+"Mastercard"
+
+msgid "other_payment_method"
+msgstr "Tai maksa käyttämällä"
+
+msgid "subscription"
+msgstr "Toistaa tämäm maksun automaattisesti"
+
+msgid "subscription_amount"
+msgstr "Toistuva maksusumma"
+
+msgid "unlimited"
+msgstr "Rajoittamaton"
+
+msgid "verification_desc"
+msgstr ""
+"Korttisi vahmistamiseksi pidätämme pankkitililtäsi pienen vahvistusmaksun 15 "
+"minuutin ajan."
+
+msgid "customer_name"
+msgstr "Etunimi ja Sukunimi"
+
+msgid "customer_name_utf8"
+msgstr "Etunimi ja Sukunimi"
+
+msgid "customer_address"
+msgstr "Osoite (katu, talo, asunto)"
+
+msgid "customer_zip"
+msgstr "Postinumero"
+
+msgid "customer_city"
+msgstr "Kaupunki/Kylä"
+
+msgid "customer_country"
+msgstr "Maa"
+
+msgid "customer_state"
+msgstr "Maakunta/Kunta/Alue"
+
+msgid "customer_phonemobile"
+msgstr "Puhelin"
+
+msgid "customer_email"
+msgstr "Sähköposti"
+
+msgid "use_monobank_application"
+msgstr ""
+
+msgid "load_more"
+msgstr "Näytä lisä..."
+
+msgid "pay_with_card"
+msgstr "Maksaa kortilla"
+
+msgid "cvv2_help"
+msgstr "{0}-numeroinen koodi korttisi takapuolella"
+
+msgid "Payments"
+msgstr ""
+
+msgid "from_amount_month"
+msgstr ""
+
+msgid "payments"
+msgstr ""
+
+msgid "currency_month"
+msgstr ""
+
+msgid "expect_soon"
+msgstr ""
+
+msgid "conditions"
+msgstr ""
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "Tilauksen nro {0} maksutiedot"
+
+msgid "ibox_title"
+msgstr "Tilausnumero (maksettava iBoxin kautta)"
+
+msgid "full_requesites"
+msgstr "Saajan pankkitiedot"
+
+msgid "full_requesites_explain"
+msgstr ""
+"Sinun ei tarvitse ilmoittaa niitä maksaessasi, mutta niiden tallentaminen "
+"viitteeksi saattaa olla hyödyllistä."
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "Maksunsaaja"
+
+msgid "current_bill"
+msgstr "Pankkitilin numero (IBAN)"
+
+msgid "usreou"
+msgstr "Verotunnus"
+
+msgid "bank"
+msgstr "Pankin nimi"
+
+msgid "mfo"
+msgstr "Pankin koodi (BIC tai MFO)"
+
+msgid "purpose"
+msgstr "Kuvaus"
+
+msgid "receipt_id"
+msgstr "Tilausnumero"
+
+msgid "end_date"
+msgstr "Maksun määräaika"
+
+msgid "ibox_desc"
+msgstr ""
+"Kaikki maksuja hyväksyvät iBox-päätteet on merkitty <a href=\"https://ibox."
+"ua/map\" target=\"_blank\">kartalle</a> :ltä"
+
+msgid "save_receipt"
+msgstr "Tallenna kuitti"
+
+msgid "save_qr_code"
+msgstr "Tallenna älypuhelimeen"
+
+msgid "qr_code_text"
+msgstr "Skannaa tama QR-koodi tallentaaksesi kuitin alypuhelimeesi"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Maksa tilaus käyttämällä Haku-vaihtoehtoa löytääksesi Alliance bank-maksupalvelun "
+"iBox-päätteestä.<p>Tilauksesi automaattisesti peruuntuu määräajan jälkeen."
+"<p>Emme voi hyväksyä tämän tilauksen maksua muiden kuin iBox-päätteiden "
+"kautta."
+
+msgid "sepa_t"
+msgstr "Syötä pankkitilisi tiedot"
+
+msgid "bank_desc"
+msgstr "Sinut siirretään pankin verkkosivustolle suorittamaan maksu"
+
+msgid "return_to_site"
+msgstr ""
+
+msgid "download_receipt"
+msgstr ""
+
+msgid "payment_id"
+msgstr "Maksutunnus"
+
+msgid "demo-title"
+msgstr "Esittelymuoto"
+
+msgid "mode-test"
+msgstr ""
+
+msgid "title-declined"
+msgstr "Valitettavasti maksusi epäonnistui"
+
+msgid "title-approved"
+msgstr "Kiitos! Maksusi on hyväksytty"
+
+msgid "verification_code_d"
+msgstr ""
+"Korttisi vahvistamiseksi pidätämme pankkitililtäsi pienen vahvistusmaksun 15 "
+"minuutin ajan."
+
+msgid "verification_amount_d"
+msgstr ""
+"Pankkitililtäsi veloitetaan pieni maksu 15 minuutin ajan kortin omistajuuden "
+"vahvistamiseksi. Syötä tililtäsi pidätetty vahvistussumma."
+
+msgid "rule_default"
+msgstr "{_field_} arvo on virheellinen"
+
+msgid "rule_after"
+msgstr "Voimassa oleva päättymispäivä ei saa olla {target} jälkeen"
+
+msgid "rule_alpha"
+msgstr "Käytä vain kirjaimia"
+
+msgid "rule_date_format"
+msgstr "Syötä kuukausi/vuosi"
+
+msgid "rule_decimal"
+msgstr "Käytä numeroita (0-9), pisteitä (.) tai pilkkuja (,)"
+
+msgid "rule_digits"
+msgstr "Syötä {length} numerot"
+
+msgid "rule_email"
+msgstr "Syötä voimassa oleva sähköposti"
+
+msgid "rule_max"
+msgstr "Syötä enintään {length} merkkiä."
+
+msgid "rule_min"
+msgstr "Syötä vähintään {length} merkkiä."
+
+msgid "rule_numeric"
+msgstr "Käytä vain numeroita (0-9)"
+
+msgid "rule_required"
+msgstr "Täytä tämä kenttä"
+
+msgid "rule_regex"
+msgstr "Väärä muoto"
+
+msgid "rule_no_zero"
+msgstr "Määrä enemmän nollaa"
+
+msgid "rule_customer_name"
+msgstr "Syötä sekä etu- että sukunimi, käytä kirjaimia (A-Za-z)"
+
+msgid "rule_customer_field"
+msgstr "Käytä kirjaimia (A-Za-z) ja numeroita (0-9)"
+
+msgid "rule_customer_field_utf8"
+msgstr "Älä käytä tässä erikoismerkkejä"
+
+msgid "rule_phone"
+msgstr ""
+
+msgid "rule_phonemobile"
+msgstr "Syötä vähintään 7 numeroa (0-9)"
+
+msgid "rule_numrange"
+msgstr "Syötit liian monta numeroa"
+
+msgid "rule_ccard"
+msgstr "Virheellinen korttinumero"
+
+msgid "rule_expiry_date"
+msgstr "Virheellinen viimeinen voimassaolopäivä"
+
+msgid "rule_cvv"
+msgstr "Virheellinen CVV2/CVC2"
+
+msgid "rule_one"
+msgstr "Tämä arvo ei voi olla pienempi kuin 1"
+
+msgid "price"
+msgstr "Hinta"
+
+msgid "shipping"
+msgstr "Kuljetus"
+
+msgid "vat"
+msgstr "alv."
+
+msgid "arbitrary_amount"
+msgstr "Määrä"
+
+msgid "ibox_ua"
+msgstr "Käteinen päätteen kautta"
+
+msgid "loans_tooltip"
+msgstr "Osta nyt, maksa 15 päivän kuluttua. Käsittelykulut 0%."
+
+msgid "button_expired_title"
+msgstr "Maksupainike on vanhentunut"
+
+msgid "button_expired_text"
+msgstr "Ota yhteyttä kauppiaaseen ongelman ratkaisemiseksi. "
+
+msgid "button_status_not_active_title"
+msgstr "Maksulinkki on poistettu käytöstä"
+
+msgid "button_status_not_active_text"
+msgstr "Ota yhteyttä kauppiaaseen saadaksesi maksulinkin."
+
+msgid "sender_name"
+msgstr "Nimi"
+
+msgid "sender_familyName"
+msgstr "Sukunimi"
+
+msgid "bic"
+msgstr "BIC"
+
+msgid "iban"
+msgstr "IBAN"
+
+msgid "wallets_google"
+msgstr "Google Pay"
+
+msgid "wallets_card"
+msgstr "Google Pay"
+
+msgid "wallets_apple"
+msgstr "Apple Pay"
+
+msgid "3ds_title"
+msgstr "Sinut siirretään 3ds-sivulle. Jos et näe sitä, napsauta"
+
+msgid "3ds_link"
+msgstr "linkkiä"
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr "Sinut siirretään VIAMO-mobiilisovellukseen"
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr "Skannaa QR-koodi VIAMO-mobiilisovelluksen kautta"
+
+msgid "qr_button_sk_viamo"
+msgstr "Maksa Viamo Plussalla"
+
+msgid "qr_app_apple_sk_viamo"
+msgstr "https://apps.apple.com/app/viamo-plus/id1576498062"
+
+msgid "qr_app_google_sk_viamo"
+msgstr "https://play.google.com/store/apps/details?id=sk.viamo.plus"
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "Sähköposti"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "Maksujen määrä"
+
+msgid "subscription_every"
+msgstr "Joka"
+
+msgid "subscription_period"
+msgstr "Aikaväli"
+
+msgid "subscription_start_time"
+msgstr "Aloituspäivämäärä"
+
+msgid "subscription_end_time"
+msgstr "Päättymispäivä"
+
+msgid "default_country"
+msgstr "Hae maan mukaan"
+
+msgid "system_search"
+msgstr "Hae pankin nimen, IBAN:in tai BIC:in mukaan"
+
+msgid "card_number"
+msgstr "Korttinumero"
+
+msgid "expiry_date"
+msgstr "KK/VV"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "Vahvistuskoodi"
+
+msgid "verification_amount"
+msgstr "Vahvistusmäärä"
+
+msgid "promo_status_approve"
+msgstr ""
+
+msgid "promo_status_expired"
+msgstr ""
+
+msgid "promo_status_invalid"
+msgstr ""
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr ""
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr ""

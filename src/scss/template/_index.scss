@@ -1,0 +1,202 @@
+@import 'loyaut';
+@import 'menu';
+@import 'card';
+@import 'modal';
+@import 'button-pay-wallet';
+@import 'banklinks';
+@import 'subscription';
+@import 'tooltip';
+@import 'receipt';
+@import 'alert';
+
+.f-method {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: inherit;
+}
+
+.f-container-sm {
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.f-merchant-name {
+  font-weight: 500;
+  color: $merchant_name_color;
+  word-wrap: break-word;
+}
+
+.f-merchant-url {
+  margin-bottom: px-to-rem(12px);
+
+  a {
+    font-weight: 500;
+    color: $merchant_url_color;
+
+    @include hover {
+      color: darken($merchant_url_color, 20%);
+    }
+  }
+}
+
+.f-order-desc {
+  margin-bottom: px-to-rem(12px);
+  color: $order_desc_color;
+}
+
+.f-order-desc-text {
+  @include clip-row($container_bg);
+}
+
+.f-order-desc-more {
+  font-weight: 600;
+  color: $order_desc_more_color;
+
+  @include hover {
+    color: darken($order_desc_more_color, 20%);
+  }
+}
+
+.f-price {
+  position: relative;
+  margin-bottom: px-to-rem(24px);
+}
+
+.f-amount {
+  display: inline-block;
+  font-size: px-to-rem(28px);
+  line-height: 1.2;
+  color: $amount_color;
+
+  sup {
+    font-size: px-to-rem(16px);
+  }
+}
+
+.f-currency {
+  display: inline-block;
+  margin-left: px-to-rem(8px);
+  font-size: px-to-rem(20px);
+  color: $currency_color;
+}
+
+.f-fee {
+  position: absolute;
+  top: px-to-rem(26px);
+  z-index: 1;
+  font-weight: 500;
+  color: $fee_color;
+}
+
+.f-hidden {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  display: inline;
+  width: auto;
+  padding-right: 0;
+  opacity: 0;
+}
+
+.f-icons-title {
+  margin-right: px-to-rem(16px);
+  font-weight: 300;
+  letter-spacing: px-to-rem(-0.3px);
+}
+
+.f-lang {
+  height: px-to-rem(20px);
+  padding: 0;
+  color: $btn_link_default_color;
+  background: none;
+  border: none;
+
+  &:hover {
+    background: none;
+  }
+}
+
+.f-icons {
+  display: flex;
+  align-items: center;
+  padding: px-to-rem(4px) 0;
+
+  .f-icon {
+    margin-right: px-to-rem(8px);
+    border-radius: px-to-rem(3px);
+    box-shadow: 0 px-to-rem(1px) px-to-rem(4px) $menu_icons_shadow;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .f-icon-google {
+    box-shadow: none;
+  }
+}
+
+.f-icons-count {
+  display: block;
+  width: px-to-rem(24px);
+  height: px-to-rem(24px);
+  font-size: px-to-rem(10px);
+  line-height: px-to-rem(24px);
+  color: $menu_count_color;
+  text-align: center;
+  background: $menu_count_bg;
+  border-radius: px-to-rem(3px);
+  transition: all ease-in-out 0.15s;
+
+  @include hover {
+    color: darken($menu_count_color, 20%);
+    text-decoration: none;
+  }
+}
+
+.f-title-security {
+  display: inline-flex;
+  align-items: center;
+  padding: px-to-rem(3px);
+  font-size: px-to-rem(12px);
+  color: $security_color;
+  cursor: pointer;
+  transition: color ease-in-out 0.15s;
+
+  &:hover {
+    color: $security_hover_color;
+    text-decoration: none;
+
+    .f-svg-security {
+      color: $security_icon_hover_color;
+    }
+  }
+
+  svg {
+    margin-right: px-to-rem(10px);
+  }
+}
+
+.f-svg-security {
+  color: $security_icon_color;
+  vertical-align: middle;
+  transition: color ease-in-out 0.15s;
+}
+
+.f-form-group-currency {
+  position: absolute;
+  top: px-to-rem(17px);
+  right: px-to-rem(12px);
+  z-index: 1;
+  font-size: px-to-rem(16px);
+  font-weight: 500;
+  color: $label_color;
+  transition: all ease-in-out 0.15s;
+  transform-origin: 0 0;
+
+  .f-active + & {
+    transform: translateY(7px);
+  }
+}

@@ -1,0 +1,27 @@
+.f-close {
+  padding: 0;
+  font-size: px-to-rem(24px);
+  font-weight: 600;
+  line-height: 1;
+  color: $close_color;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  border-radius: px-to-rem(8px);
+  opacity: 1;
+
+  // Override <a>'s hover style
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:hover,
+  &:focus {
+    opacity: 0.75;
+  }
+
+  &:disabled,
+  &.disabled {
+    pointer-events: none;
+  }
+}

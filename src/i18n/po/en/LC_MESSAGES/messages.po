@@ -1,0 +1,678 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-15 19:24+0200\n"
+"PO-Revision-Date: 2020-09-30 10:39+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "card"
+msgstr "Card"
+
+msgid "sepa"
+msgstr "SEPA Direct Debit"
+
+msgid "banklinks_eu"
+msgstr "Internet bank"
+
+msgid "receipt"
+msgstr "Bank transfer"
+
+msgid "local_methods"
+msgstr "Local payment methods"
+
+msgid "loans"
+msgstr "Online installments"
+
+msgid "emoney"
+msgstr "Digital wallet"
+
+msgid "crypto"
+msgstr "Crypto wallets"
+
+msgid "most_popular"
+msgstr "Most popular"
+
+msgid "installments"
+msgstr "Installments"
+
+msgid "day"
+msgstr "Day"
+
+msgid "week"
+msgstr "Week"
+
+msgid "month"
+msgstr "Month"
+
+msgid "gdpr_yapily"
+msgstr ""
+"<p>Yapily Connect Ltd is authorised and regulated by the Financial Conduct "
+"Authority under the Payment Service Regulations 2017 [827001] for the "
+"provision of Account Information and Payment Initiation services.<p>By "
+"clicking 'Pay' you agree that Yapily Connect Ltd can initiate this payment "
+"for you in accordance with their <a href='https://www.yapily.com/legal/"
+"yapilyconnect-terms-and-conditions/' target='_blank'>Terms & Conditions</a>"
+
+msgid "gdpr_alert_text"
+msgstr ""
+"We use cookies on this website to enhance your experience of online payments."
+
+msgid "learn_more"
+msgstr "Learn more"
+
+msgid "gdpr_modal_text"
+msgstr ""
+"Our website uses “cookies” and other technologies, which store information "
+"on your computer or device, to allow certain data relating to your web "
+"browser to be collected. Cookies are widely used on the Internet and allow a "
+"website/portal to recognise a user’s device, without uniquely identifying "
+"the individual person using the computer. These technologies help to make it "
+"easier for you to log on and use the site and provide feedback to us as to "
+"which parts of the website you visit, so we can assess the effectiveness of "
+"the site and provide a better user experience or serve Alliance bank adverts to you "
+"whilst browsing other sites. For more information, please visit <a "
+"href='https://example.com/privacy-notice/' target='_blank'>https://example.com/"
+"privacy-notice/</a>"
+
+msgid "save_card"
+msgstr "Save my card for future payments"
+
+msgid "its_safe"
+msgstr "It's safe"
+
+msgid "gdpr_modal_safe_title"
+msgstr ""
+"Your card details are tokenised, making it safe and convenient for repeat "
+"purchases"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>We do not record your card details as you enter them. In fact, we "
+"instantly encrypt card details and store them in tokenised format. Tokens "
+"are random combinations of numbers and characters.<p>Whenever you make "
+"another payment, Alliance bank will use tokens instead of card details so that a "
+"potential fraudster won't be able to intercept them. Token data has no value "
+"outside of the Alliance bank payment service."
+
+msgid "close"
+msgstr "Close"
+
+msgid "not_now"
+msgstr "Not now"
+
+msgid "accept"
+msgstr "I agree"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "pay"
+msgstr "Pay"
+
+msgid "demo-desc"
+msgstr ""
+"This is a demo system. While you may enter data, the payment will not be "
+"processed."
+
+msgid "expires_on"
+msgstr "Expiry date"
+
+msgid "approved"
+msgstr "Approved"
+
+msgid "declined"
+msgstr "Declined"
+
+msgid "use_other_card"
+msgstr "Enter another card"
+
+msgid "all_methods"
+msgstr "All Methods"
+
+msgid "verification_t"
+msgstr "Card verification"
+
+msgid "see_more"
+msgstr "Show in full"
+
+msgid "order_details"
+msgstr "Order details"
+
+msgid "submit3ds_title"
+msgstr "Payment incomplete"
+
+msgid "submit3ds_text"
+msgstr "Please enter another confirmation code"
+
+msgid "submit3ds_submit"
+msgstr "Please try again"
+
+msgid "submit3ds_wait"
+msgstr ""
+"You will be redirected to the bank's website to complete your payment in {0} "
+"seconds"
+
+msgid "server_trouble_title"
+msgstr "Oops.."
+
+msgid "server_trouble_desc"
+msgstr ""
+"A problem has occurred, and we are already working on it. Please return to "
+"your order and check out again."
+
+msgid "offer_t"
+msgstr ""
+"I accept the <a href=\"{0}\" target=\"_blank\">bid terms and conditions. </a>"
+
+msgid "trial_period"
+msgstr "Trial period"
+
+msgid "first_payment"
+msgstr "First payment"
+
+msgid "amount"
+msgstr "Amount due"
+
+msgid "discount"
+msgstr "discount"
+
+msgid "fee"
+msgstr "Commission"
+
+msgid "total_amount"
+msgstr "Total amount due"
+
+msgid "enter_promo_code"
+msgstr "Enter promo code"
+
+msgid "add"
+msgstr "Apply"
+
+msgid "security_title"
+msgstr "Strong customer authentication"
+
+msgid "security_text"
+msgstr ""
+"<p>In compliance with PCI DSS<p>Listed on Visa Global Registry and verified "
+"by Mastercard"
+
+msgid "other_payment_method"
+msgstr "Or pay with"
+
+msgid "subscription"
+msgstr "Repeat this payment automatically"
+
+msgid "subscription_amount"
+msgstr "Recurring payment amount"
+
+msgid "unlimited"
+msgstr "Unlimited"
+
+msgid "verification_desc"
+msgstr ""
+"To verify your card we will hold a small verification fee on your bank "
+"account for 15 minutes."
+
+msgid "customer_name"
+msgstr "Name and Surname"
+
+msgid "customer_name_utf8"
+msgstr "Name and Surname"
+
+msgid "customer_address"
+msgstr "Address (street, building, apartment)"
+
+msgid "customer_zip"
+msgstr "ZIP/Postal code"
+
+msgid "customer_city"
+msgstr "City/Town"
+
+msgid "customer_country"
+msgstr "Country"
+
+msgid "customer_state"
+msgstr "State/Province/Region"
+
+msgid "customer_phonemobile"
+msgstr "Phone"
+
+msgid "customer_email"
+msgstr "Email"
+
+msgid "use_monobank_application"
+msgstr "Use the monobank app to confirm your purchase in installments"
+
+msgid "load_more"
+msgstr "Show more..."
+
+msgid "pay_with_card"
+msgstr "Pay with card"
+
+msgid "cvv2_help"
+msgstr "{0}-digit code on the back of your card"
+
+msgid "Payments"
+msgstr "Payments"
+
+msgid "from_amount_month"
+msgstr "From {0} / month"
+
+msgid "payments"
+msgstr "payments"
+
+msgid "currency_month"
+msgstr "{0} / month"
+
+msgid "expect_soon"
+msgstr "Expecting soon"
+
+msgid "conditions"
+msgstr "Сonditions"
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+"<li>You have a credit card from monobank</li><li>Available limit for "
+"Purchases in installments</li><li>The first payment will be made at the time "
+"of purchase, and the next one in a month</li>"
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+"<li>Availability of the «Universal» card.</li><li>Available credit limit for "
+"the «Payment by installments» service.</li><li>The first payment will be "
+"made at the time of purchase, and the next one in a month.</li>"
+
+msgid "most_popular_methods_in"
+msgstr "Most popular methods in:"
+
+msgid "see_all_other_methods"
+msgstr "See all other methods"
+
+msgid "mfo_title"
+msgstr "Payment details for order # {0}"
+
+msgid "ibox_title"
+msgstr "Order ID (to be paid via iBox)"
+
+msgid "full_requesites"
+msgstr "Recipient's bank details"
+
+msgid "full_requesites_explain"
+msgstr ""
+"You won't have to indicate them while making payment, but saving them for "
+"reference might be helpful."
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "Recipient"
+
+msgid "current_bill"
+msgstr "Bank account number (IBAN)"
+
+msgid "usreou"
+msgstr "Tax identification number (TIN)"
+
+msgid "bank"
+msgstr "Bank name"
+
+msgid "mfo"
+msgstr "Bank code (BIC or MFO)"
+
+msgid "purpose"
+msgstr "Description"
+
+msgid "receipt_id"
+msgstr "Order ID"
+
+msgid "end_date"
+msgstr "Payment deadline"
+
+msgid "ibox_desc"
+msgstr ""
+"All iBox terminals that accept payments are tagged on the <a href=\"https://"
+"ibox.ua/map\" target=\"_blank\">map</a>"
+
+msgid "save_receipt"
+msgstr "Save receipt"
+
+msgid "save_qr_code"
+msgstr "Save onto smartphone"
+
+msgid "qr_code_text"
+msgstr "Scan this QR-code to save the receipt onto your smartphone"
+
+msgid "ibox_info"
+msgstr ""
+"<p>To pay the order, please use the Search option to locate the Alliance bank "
+"payments service in the iBox terminal.<p>Your order will automatically be "
+"cancelled after the deadline.<p>We cannot accept payment for this order via "
+"terminals other than iBox."
+
+msgid "sepa_t"
+msgstr "Provide your bank account details"
+
+msgid "bank_desc"
+msgstr "You will be redirected to the bank's website to complete your payment"
+
+msgid "return_to_site"
+msgstr "Return to the site"
+
+msgid "download_receipt"
+msgstr "Download receipt"
+
+msgid "payment_id"
+msgstr "Payment ID"
+
+msgid "demo-title"
+msgstr "Demo mode"
+
+msgid "mode-test"
+msgstr "Test mode"
+
+msgid "title-declined"
+msgstr "Unfortunately, your payment was unsuccessful"
+
+msgid "title-approved"
+msgstr "Thank you! Your payment is accepted"
+
+msgid "verification_code_d"
+msgstr ""
+"To verify your card we will hold a small verification fee on your bank "
+"account for 15 minutes."
+
+msgid "verification_amount_d"
+msgstr ""
+"A small fee will be held on your bank account for 15 minutes to verify the "
+"ownership of the card. Please enter the verification amount held on your "
+"account."
+
+msgid "rule_default"
+msgstr "The {_field_} value is not valid"
+
+msgid "rule_after"
+msgstr "Valid thru date may not be after {target}"
+
+msgid "rule_alpha"
+msgstr "Please use letters only"
+
+msgid "rule_date_format"
+msgstr "Please enter month/year"
+
+msgid "rule_decimal"
+msgstr "Please use digits (0-9), periods (.) or commas (,)"
+
+msgid "rule_digits"
+msgstr "Please enter {length} digits"
+
+msgid "rule_email"
+msgstr "Please enter a valid email"
+
+msgid "rule_max"
+msgstr "Please enter {length} characters max."
+
+msgid "rule_min"
+msgstr "Please enter {length} characters min."
+
+msgid "rule_numeric"
+msgstr "Please use digits (0-9) only"
+
+msgid "rule_required"
+msgstr "Please complete this field"
+
+msgid "rule_regex"
+msgstr "Invalid format"
+
+msgid "rule_no_zero"
+msgstr "Amount should be more than zero"
+
+msgid "rule_customer_name"
+msgstr "Please enter both first name and last name, use letters (A-Za-z)"
+
+msgid "rule_customer_field"
+msgstr "Please use letters (A-Za-z) and digits (0-9)"
+
+msgid "rule_customer_field_utf8"
+msgstr "Please do not use special characters here"
+
+msgid "rule_phone"
+msgstr "Enter mobile phone number"
+
+msgid "rule_phonemobile"
+msgstr "Please enter at least 7 digits (0-9)"
+
+msgid "rule_numrange"
+msgstr "You entered too many digits"
+
+msgid "rule_ccard"
+msgstr "Incorrect card number"
+
+msgid "rule_expiry_date"
+msgstr "Incorrect expiry date"
+
+msgid "rule_cvv"
+msgstr "Incorrect CVV2/CVC2"
+
+msgid "rule_one"
+msgstr "This value cannot be less than 1"
+
+msgid "price"
+msgstr "Price"
+
+msgid "shipping"
+msgstr "Shipping"
+
+msgid "vat"
+msgstr "VAT"
+
+msgid "arbitrary_amount"
+msgstr "Amount"
+
+msgid "ibox_ua"
+msgstr "Cash via terminal"
+
+msgid "loans_tooltip"
+msgstr "Buy now, pay in 15 days. Commission 0%."
+
+msgid "button_expired_title"
+msgstr "Payment button is expired"
+
+msgid "button_expired_text"
+msgstr "Please contact the merchant to solve the issue. "
+
+msgid "button_status_not_active_title"
+msgstr "Payment link is deactivated"
+
+msgid "button_status_not_active_text"
+msgstr "Please contact the merchant to receive the payment link."
+
+msgid "sender_name"
+msgstr "Name"
+
+msgid "sender_familyName"
+msgstr "Surname"
+
+msgid "bic"
+msgstr "BIC"
+
+msgid "iban"
+msgstr "IBAN"
+
+msgid "wallets_google"
+msgstr "Google Pay"
+
+msgid "wallets_card"
+msgstr "Google Pay"
+
+msgid "wallets_apple"
+msgstr "Apple Pay"
+
+msgid "3ds_title"
+msgstr ""
+"You will be redirected to 3ds page. If you don't see it, please click the"
+
+msgid "3ds_link"
+msgstr "link"
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr "You will be redirected to the VIAMO mobile application"
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr "Scan QR through the VIAMO mobile application"
+
+msgid "qr_button_sk_viamo"
+msgstr "Pay with Viamo Plus"
+
+msgid "qr_app_apple_sk_viamo"
+msgstr "https://apps.apple.com/app/viamo-plus/id1576498062"
+
+msgid "qr_app_google_sk_viamo"
+msgstr "https://play.google.com/store/apps/details?id=sk.viamo.plus"
+
+msgid "ACCOUNT_NUMBER"
+msgstr "Account number"
+
+msgid "CODE"
+msgstr "Blik code"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "name"
+msgstr "Name, Last name "
+
+msgid "SORT_CODE"
+msgstr "Sort code"
+
+msgid "specin.address"
+msgstr "Billing address"
+
+msgid "specin.bic"
+msgstr "BIC"
+
+msgid "specin.city"
+msgstr "City"
+
+msgid "specin.consumerref"
+msgstr "Consumer reference"
+
+msgid "specin.dob"
+msgstr "Day of birth"
+
+msgid "specin.email"
+msgstr "Email"
+
+msgid "specin.iban"
+msgstr "IBAN"
+
+msgid "specin.nationalid"
+msgstr "Passport ID"
+
+msgid "specin.zipcode"
+msgstr "Zip code"
+
+msgid "search_country"
+msgstr "Search for country"
+
+msgid "credit_debit_cards"
+msgstr "Credit/Debit Cards"
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr "Account number"
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr "Enter your bank account number"
+
+msgid "label_SORT_CODE"
+msgstr "Sort code"
+
+msgid "placeholder_SORT_CODE"
+msgstr "Enter your bank sort code"
+
+msgid "message_address_number"
+msgstr "Street number, apartment number, suite, etc."
+
+msgid "message_address_street"
+msgstr "Street address"
+
+msgid "message_customer_name_utf8"
+msgstr "Name and Surname"
+
+msgid "placeholder_customer_name_utf8"
+msgstr "Enter your Name and Surname"
+
+msgid "placeholder_address_street"
+msgstr "Enter your Street address"
+
+msgid "email"
+msgstr "Email"
+
+msgid "currencies"
+msgstr "currencies"
+
+msgid "number_of_payments"
+msgstr "Number of payments"
+
+msgid "subscription_every"
+msgstr "Every"
+
+msgid "subscription_period"
+msgstr "Time span"
+
+msgid "subscription_start_time"
+msgstr "Start date"
+
+msgid "subscription_end_time"
+msgstr "End date"
+
+msgid "default_country"
+msgstr "Search by country:"
+
+msgid "system_search"
+msgstr "Search by bank name, IBAN or BIC"
+
+msgid "card_number"
+msgstr "Card number"
+
+msgid "expiry_date"
+msgstr "MM/YY"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "Confirmation code"
+
+msgid "verification_amount"
+msgstr "Verification amount"
+
+msgid "promo_status_approve"
+msgstr "Promo code applied"
+
+msgid "promo_status_expired"
+msgstr "The promo code has expired"
+
+msgid "promo_status_invalid"
+msgstr "Invalid promo code"
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr "Other promotional propositions will not work"
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr "Card does no participate in discount program"

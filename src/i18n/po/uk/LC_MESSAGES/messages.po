@@ -1,0 +1,659 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-15 19:24+0200\n"
+"PO-Revision-Date: 2020-09-30 13:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "card"
+msgstr "Банківська картка"
+
+msgid "sepa"
+msgstr "SEPA Direct Debit"
+
+msgid "banklinks_eu"
+msgstr "Інтернет-банкінг"
+
+msgid "receipt"
+msgstr "Банківський переказ"
+
+msgid "local_methods"
+msgstr "Локальні способи оплати"
+
+msgid "loans"
+msgstr "Розстрочка online"
+
+msgid "emoney"
+msgstr "Електронний гаманець"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr "Оплата частинами"
+
+msgid "day"
+msgstr "День"
+
+msgid "week"
+msgstr "Тиждень"
+
+msgid "month"
+msgstr "Місяць"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr ""
+"На цьому сайті працюють кукі, щоб вам було приємно та зручно здійснювати "
+"оплати."
+
+msgid "learn_more"
+msgstr "Детальніше."
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "Запам'ятовувати картку для швидкої повторної оплати."
+
+msgid "its_safe"
+msgstr "Це безпечно."
+
+msgid "gdpr_modal_safe_title"
+msgstr "Зберігати картку — безпечно та зручно"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>Ми не фіксуємо дані вашої картки у тому вигляді, в якому ви їх вказуєте, "
+"а миттєво шифруємо та зберігаємо їх у форматі випадкових комбінацій символів "
+"— «токенів».<p>Під час кожної оплати платіжний сервіс Alliance bank використовує "
+"токен замість даних картки, тому потенційний зловмисник не зможе їх "
+"перехопити. А перехоплювати дані токена не має сенсу, тому що токени не "
+"несуть ніякої інформації поза платіжним сервісом Alliance bank."
+
+msgid "close"
+msgstr "Закрити"
+
+msgid "not_now"
+msgstr "Не зараз"
+
+msgid "accept"
+msgstr "Дозволяю"
+
+msgid "cancel"
+msgstr "Відмінити"
+
+msgid "pay"
+msgstr "Сплатити"
+
+msgid "demo-desc"
+msgstr ""
+
+msgid "expires_on"
+msgstr "Дійсна до"
+
+msgid "approved"
+msgstr "Успішно"
+
+msgid "declined"
+msgstr "Відхилено"
+
+msgid "use_other_card"
+msgstr "Вказати іншу картку"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "Перевірка картки"
+
+msgid "see_more"
+msgstr "Показати повністю"
+
+msgid "order_details"
+msgstr "Повний опис замовлення"
+
+msgid "submit3ds_title"
+msgstr "Оплата не завершена"
+
+msgid "submit3ds_text"
+msgstr "Введіть новий код підтвердження від банку"
+
+msgid "submit3ds_submit"
+msgstr "Спробувати ще раз"
+
+msgid "submit3ds_wait"
+msgstr ""
+"Ми перенаправимо вас на сайт банку ще раз для завершення оплати через {0} "
+"секунд"
+
+msgid "server_trouble_title"
+msgstr "На жаль.."
+
+msgid "server_trouble_desc"
+msgstr ""
+"Щось пішло не за планом, але ми вже вирішуємо цю проблему. Будь ласка, "
+"поверніться на декілька кроків назад та спробуйте повторити платіж."
+
+msgid "offer_t"
+msgstr "Я приймаю <a href=\"{0}\" target=\"_blank\">умови оферти</a>"
+
+msgid "trial_period"
+msgstr "Пробний період"
+
+msgid "first_payment"
+msgstr ""
+
+msgid "amount"
+msgstr "До сплати"
+
+msgid "discount"
+msgstr "Знижка"
+
+msgid "fee"
+msgstr "З урахуванням комісії"
+
+msgid "total_amount"
+msgstr "Сума до сплати"
+
+msgid "enter_promo_code"
+msgstr "Введіть промокод"
+
+msgid "add"
+msgstr "Додати"
+
+msgid "security_title"
+msgstr "Дані покупця захищено"
+
+msgid "security_text"
+msgstr ""
+"<p>Згідно з міжнародним стандартом захисту платежів PCI DSS<p>Регулюється "
+"міжнародними платіжними системами Visa та Mastercard"
+
+msgid "other_payment_method"
+msgstr "Інші способи оплати"
+
+msgid "subscription"
+msgstr "Повторювати платіж автоматично"
+
+msgid "subscription_amount"
+msgstr "Сума регулярного платежу"
+
+msgid "unlimited"
+msgstr "Не обмежено"
+
+msgid "verification_desc"
+msgstr ""
+"Задля перевірки вашої картки ми заблокуємо невелику суму на вашому рахунку "
+"на 15 хвилин."
+
+msgid "customer_name"
+msgstr "Ім'я на картці (латиницею)"
+
+msgid "customer_name_utf8"
+msgstr "Повне ім'я"
+
+msgid "customer_address"
+msgstr "Адреса (вулиця, будинок, квартира)"
+
+msgid "customer_zip"
+msgstr "Поштовий індекс"
+
+msgid "customer_city"
+msgstr "Населений пункт"
+
+msgid "customer_country"
+msgstr "Країна"
+
+msgid "customer_state"
+msgstr "Область, регіон"
+
+msgid "customer_phonemobile"
+msgstr "Телефон"
+
+msgid "customer_email"
+msgstr "Електронна пошта"
+
+msgid "use_monobank_application"
+msgstr "Скористайтесь додатком monobank для підтвердження покупки частинами"
+
+msgid "load_more"
+msgstr "Показати ще..."
+
+msgid "pay_with_card"
+msgstr "Оплатити карткою"
+
+msgid "cvv2_help"
+msgstr "{0}-значний код на звороті картки"
+
+msgid "Payments"
+msgstr "Платежі"
+
+msgid "from_amount_month"
+msgstr "Від {0} / місяць"
+
+msgid "payments"
+msgstr "платежі"
+
+msgid "currency_month"
+msgstr "{0} / місяць"
+
+msgid "expect_soon"
+msgstr "Очікуємо найближчим часом"
+
+msgid "conditions"
+msgstr "Умови"
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+"<li>У вас є кредитна картка від monobank</li><li>Доступний ліміт на Покупки "
+"частинами</li><li>Перший платіж пройде в момент купівлі, а наступний – через "
+"місяць</li>"
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+"<li>Наявність картки «Універсальна».</li><li>Доступний кредитний ліміт за "
+"сервісом «Оплата частинами».</li><li>Перший платіж пройде в момент купівлі, "
+"наступний — через місяць.</li>"
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "Реквізити для сплати рахунку № {0}"
+
+msgid "ibox_title"
+msgstr "Оплата в терміналі iBox"
+
+msgid "full_requesites"
+msgstr "Повні реквізити отримувача платежу"
+
+msgid "full_requesites_explain"
+msgstr ""
+"Вам не потрібно буде їх вводити під час оплати, але ви можете їх зберегти "
+"для звірки."
+
+msgid "UAH"
+msgstr "грн"
+
+msgid "receiver"
+msgstr "Отримувач платежу"
+
+msgid "current_bill"
+msgstr "Поточний рахунок (IBAN)"
+
+msgid "usreou"
+msgstr "Код ЄДРПОУ"
+
+msgid "bank"
+msgstr "Установа банку"
+
+msgid "mfo"
+msgstr "МФО банку"
+
+msgid "purpose"
+msgstr "Призначення"
+
+msgid "receipt_id"
+msgstr "Номер замовлення"
+
+msgid "end_date"
+msgstr "Сплатити не пізніше"
+
+msgid "ibox_desc"
+msgstr ""
+"Усі термінали iBox, у яких можна здійснити платіж, позначені на <a "
+"href=\"https://ibox.ua/map\" target=\"_blank\">мапі</a>"
+
+msgid "save_receipt"
+msgstr "Зберегти квитанцію"
+
+msgid "save_qr_code"
+msgstr "Зберегти на смартфон"
+
+msgid "qr_code_text"
+msgstr "Відскануйте цей QR-код, щоб зберегти квитанцію на свій смартфон"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Щоб оплатити замовлення, знайдіть платіжний сервіс Alliance bank через \"Пошук\" "
+"у терміналі прийому платежів iBox.<p>Після закінчення терміну сплати ваше "
+"замовлення буде анульовано. <p>Оплата в терміналах інших платіжних сервісів "
+"не приймається."
+
+msgid "sepa_t"
+msgstr "Вкажіть реквізити банківського рахунку"
+
+msgid "bank_desc"
+msgstr "Ми перенаправимо вас на сайт банку для завершення оплати"
+
+msgid "return_to_site"
+msgstr "Повернутись до сайту"
+
+msgid "download_receipt"
+msgstr "Завантажити квитанцію"
+
+msgid "payment_id"
+msgstr "ID платежу"
+
+msgid "demo-title"
+msgstr ""
+
+msgid "mode-test"
+msgstr "Тестовий режим"
+
+msgid "title-declined"
+msgstr "На жаль...Ми не змогли прийняти ваш платіж."
+
+msgid "title-approved"
+msgstr "Дякуємо, ваш платіж прийнято"
+
+msgid "verification_code_d"
+msgstr ""
+"Задля перевірки вашої картки ми заблокуємо невелику суму на вашому рахунку "
+"на 15 хвилин."
+
+msgid "verification_amount_d"
+msgstr ""
+"Ми заблокуємо невелику суму на вашому рахунку на 15 хвилин, щоб впевнитися, "
+"що вказана картка належить вам. Для цього введіть суму, вказану у "
+"повідомленні від банку."
+
+msgid "rule_default"
+msgstr "Невірне значення для поля {_field_}"
+
+msgid "rule_after"
+msgstr "Строк дії картки не може бути пізніше {target}"
+
+msgid "rule_alpha"
+msgstr "Введіть лише літери"
+
+msgid "rule_date_format"
+msgstr "Введіть дату у форматі \"місяц/рік\""
+
+msgid "rule_decimal"
+msgstr "Введіть лише цифри (0-9), крапку (.) або кому (,)"
+
+msgid "rule_digits"
+msgstr "Введіть {length} цифри"
+
+msgid "rule_email"
+msgstr "Введіть дійсну електронну пошту"
+
+msgid "rule_max"
+msgstr "Введіть щонайбільше {length} символів"
+
+msgid "rule_min"
+msgstr "Введіть щонайменше {length} символів"
+
+msgid "rule_numeric"
+msgstr "Введіть лише цифри (0-9)"
+
+msgid "rule_required"
+msgstr "Заповніть це поле"
+
+msgid "rule_regex"
+msgstr "Невірний формат"
+
+msgid "rule_no_zero"
+msgstr "Сума має бути більше нуля"
+
+msgid "rule_customer_name"
+msgstr "Вкажіть ім'я та прізвище латинськими літерами (A-Za-z)"
+
+msgid "rule_customer_field"
+msgstr "Використовуйте латинські літери (A-Za-z) та цифри (0-9)"
+
+msgid "rule_customer_field_utf8"
+msgstr "Будь ласка, не використовуйте спеціальні символи"
+
+msgid "rule_phone"
+msgstr "Введіть номер мобільного телефону"
+
+msgid "rule_phonemobile"
+msgstr "Введіть щонайменше 7 цифр (0-9)"
+
+msgid "rule_numrange"
+msgstr "Ви вказали забагато цифр"
+
+msgid "rule_ccard"
+msgstr "Невірний номер картки"
+
+msgid "rule_expiry_date"
+msgstr "Невірний строк дії"
+
+msgid "rule_cvv"
+msgstr "Невірний CVV2/CVC2"
+
+msgid "rule_one"
+msgstr "Значення не може бути менше 1"
+
+msgid "price"
+msgstr "Вартість"
+
+msgid "shipping"
+msgstr "Доставка"
+
+msgid "vat"
+msgstr "ПДВ"
+
+msgid "arbitrary_amount"
+msgstr "Сума"
+
+msgid "ibox_ua"
+msgstr "Готівка у терміналі"
+
+msgid "loans_tooltip"
+msgstr "Купи зараз, оплати через 15 днів. Комісія 0%."
+
+msgid "button_expired_title"
+msgstr "Термін дії платіжної кнопки завершено"
+
+msgid "button_expired_text"
+msgstr "Для вирішення питання зверніться до торговця"
+
+msgid "button_status_not_active_title"
+msgstr "Платіжне посилання деактивовано."
+
+msgid "button_status_not_active_text"
+msgstr ""
+"Зверніться, будь ласка, до торговця щодо отримання актуального посилання для "
+"оплати."
+
+msgid "sender_name"
+msgstr "Ім'я"
+
+msgid "sender_familyName"
+msgstr "Прізвище"
+
+msgid "bic"
+msgstr "BIC/ Swift"
+
+msgid "iban"
+msgstr "IBAN"
+
+msgid "wallets_google"
+msgstr ""
+
+msgid "wallets_card"
+msgstr ""
+
+msgid "wallets_apple"
+msgstr ""
+
+msgid "3ds_title"
+msgstr ""
+"Ви будете перенаправлені на сторінку 3ds. Якщо ви не бачите її, перейдіть за"
+
+msgid "3ds_link"
+msgstr "посиланням"
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr ""
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr ""
+
+msgid "qr_button_sk_viamo"
+msgstr ""
+
+msgid "qr_app_apple_sk_viamo"
+msgstr ""
+
+msgid "qr_app_google_sk_viamo"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "Електронна пошта"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "Кількість платежів"
+
+msgid "subscription_every"
+msgstr "Частота"
+
+msgid "subscription_period"
+msgstr "Період"
+
+msgid "subscription_start_time"
+msgstr "Перша оплата"
+
+msgid "subscription_end_time"
+msgstr "Дата закінчення"
+
+msgid "default_country"
+msgstr "Пошук за країною"
+
+msgid "system_search"
+msgstr "Пошук за назвою банку, IBAN чи BLZ"
+
+msgid "card_number"
+msgstr "Номер картки"
+
+msgid "expiry_date"
+msgstr "ММ/РР"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "Код підтвердження від банку"
+
+msgid "verification_amount"
+msgstr "Заблокована сума"
+
+msgid "promo_status_approve"
+msgstr "Промокод застосовано"
+
+msgid "promo_status_expired"
+msgstr "Термін дії промокоду минув"
+
+msgid "promo_status_invalid"
+msgstr "Невірний промокод"
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr "Інші акційні пропозиції не будуть працювати"
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr "Карта не бере участь у програмі знижок"

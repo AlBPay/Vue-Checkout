@@ -1,0 +1,163 @@
+@use 'sass:math';
+@use 'sass:list';
+@use 'sass:string';
+@use 'sass:meta';
+
+/*
+* SASS preserves units in arithmetic operations. For example:
+* 12em * 0 = 0em. This function return the unit of a numeric value.
+*
+* For more examples, see: https://codepen.io/paulgv/pen/XWrqMgQ
+*/
+@function extract-unit($number) {
+  @return $number * 0 + 1;
+}
+
+@function strip-unit($number) {
+  @if meta.type-of($number) == 'number' and not math.is-unitless($number) {
+    @return $number / extract-unit($number);
+  }
+
+  @return $number;
+}
+
+@function single-unit-rem($value, $font-size-base) {
+  @if extract-unit($value) != 1px {
+    @return $value;
+  }
+
+  $converted: math.div($value, $font-size-base);
+
+  @return strip-unit($converted) * 1rem;
+}
+
+@function multiple-units-rem($values, $font-size-base) {
+  $rem-values: ();
+
+  @each $value in $values {
+    $rem-values: list.append(
+      $rem-values,
+      single-unit-rem($value, $font-size-base)
+    );
+  }
+
+  @return $rem-values;
+}
+
+@function px-to-rem($px, $font-size-base: 16px) {
+  @if type-of($px) == 'number' {
+    @return single-unit-rem($px, $font-size-base);
+  } @else if type-of($px) == 'list' {
+    @return multiple-units-rem($px, $font-size-base);
+  } @else {
+    @return $px;
+  }
+}
+
+@function unit($number) {
+  @return math.div($number, $number * 0 + 1);
+}
+
+@function str-replace($string, $search, $replace: '') {
+  $index: string.index($string, $search);
+
+  @if $index {
+    @return string.slice($string, 1, $index - 1) + $replace +
+      str-replace(
+        string.slice($string, $index + string.length($search)),
+        $search,
+        $replace
+      );
+  }
+
+  @return $string;
+}
+
+// See https://codepen.io/kevinweber/pen/dXWoRw
+@function escape-svg($string) {
+  @if string.index($string, 'data:image/svg+xml') {
+    @each $char, $encoded in $escaped-characters {
+      // Do not escape the url brackets
+      @if string.index($string, 'url(') == 1 {
+        $string: url('#{str-replace(string.slice($string, 6, -3), $char, $encoded)}');
+      } @else {
+        $string: str-replace($string, $char, $encoded);
+      }
+    }
+  }
+
+  @return $string;
+}
+
+@function fade($name, $amount) {
+  $coefficient: math.div(unit($amount), 100);
+  $name1: str-replace($name, 'var\(', '');
+  $name2: str-replace($name1, '\)', '');
+  $h: var(#{$name2}-h);
+  $s: var(#{$name2}-s);
+  $l: var(#{$name2}-l);
+
+  @return hsla($h, $s, $l, $coefficient);
+}
+
+@function lighten($name, $amount) {
+  $coefficient: math.div($amount, 2);
+  $name1: str-replace($name, 'var\(', '');
+  $name2: str-replace($name1, '\)', '');
+  $h: var(#{$name2}-h);
+  $s: var(#{$name2}-s);
+  $l: var(#{$name2}-l);
+
+  @return hsl($h, $s, calc(#{$l} + #{$coefficient}));
+}
+
+@function darken($name, $amount) {
+  $coefficient: math.div($amount, 2);
+  $name1: str-replace($name, 'var\(', '');
+  $name2: str-replace($name1, '\)', '');
+  $h: var(#{$name2}-h);
+  $s: var(#{$name2}-s);
+  $l: var(#{$name2}-l);
+
+  @return hsl($h, $s, calc(#{$l} - #{$coefficient}));
+}
+
+@function custom($name, $ss, $ll) {
+  $sss: math.div($ss, 2);
+  $lll: math.div($ll, 2);
+  $name1: str-replace($name, 'var\(', '');
+  $name2: str-replace($name1, '\)', '');
+  $h: var(#{$name2}-h);
+  $s: var(#{$name2}-s);
+  $l: var(#{$name2}-l);
+
+  @return hsl($h, calc(#{$s} + #{$sss}), calc(#{$l} + #{$lll}));
+}
+
+@function subtract($value1, $value2, $return-calc: true) {
+  @if $value1 == null and $value2 == null {
+    @return null;
+  }
+
+  @if $value1 == null {
+    @return -$value2;
+  }
+
+  @if $value2 == null {
+    @return $value1;
+  }
+
+  /* prettier-ignore */
+  @if type-of($value1) == number and
+    type-of($value2) == number and
+    comparable($value1, $value2)
+  {
+    @return $value1 - $value2;
+  }
+
+  @return if(
+    $return-calc == true,
+    calc(#{$value1} - #{$value2}),
+    $value1 + unquote(' - ') + $value2
+  );
+}

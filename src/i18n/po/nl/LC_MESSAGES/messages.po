@@ -1,0 +1,654 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 16:50+0300\n"
+"PO-Revision-Date: 2021-03-18 15:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "card"
+msgstr "kaart"
+
+msgid "sepa"
+msgstr "sepa-incasso systeem"
+
+msgid "banklinks_eu"
+msgstr "internetbank"
+
+msgid "receipt"
+msgstr "bankoverschrijving"
+
+msgid "local_methods"
+msgstr "lokale betaalmethoden"
+
+msgid "loans"
+msgstr "online installaties"
+
+msgid "emoney"
+msgstr "digitale portemonnee"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr ""
+
+msgid "day"
+msgstr "dag"
+
+msgid "week"
+msgstr "week"
+
+msgid "month"
+msgstr "maand"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr ""
+"wij gebruiken cookies op deze website om uw betaalervaring te verbeteren"
+
+msgid "learn_more"
+msgstr "meer informatie"
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "mijn kaart opslaan voor latere betalingen"
+
+msgid "its_safe"
+msgstr "het is veilig"
+
+msgid "gdpr_modal_safe_title"
+msgstr "opgeslagen kaart is veilig en gemakkelijk"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>Uw kaartgegevens worden niet opgeslagen terwijl u deze invoert Wij "
+"coderen de gegevens en slaan deze onmiddellijk op in de vorm van tokens "
+"Tokens zijn een willekeurige combinatie van cijfers en symbolen. <р> Iedere "
+"keer dat, u een betaling doet, worden de Alliance bank tokens gebruikt in plaats van "
+"kaartgegevens zodat een mogelijke fraudeur deze gegevens niet kan "
+"achterhalen. Het heeft geen zin deze tokens te achterhalen omdat zij geen "
+"waarde hebben buiten het betaalsysteem van Alliance bank"
+
+msgid "close"
+msgstr ""
+
+msgid "not_now"
+msgstr "later opnieuw proberen"
+
+msgid "accept"
+msgstr "ik ga akkoord"
+
+msgid "cancel"
+msgstr ""
+
+msgid "pay"
+msgstr "betalen"
+
+msgid "demo-desc"
+msgstr ""
+"dit is een demo-modus. U kunt alle gegevens invoeren, de huidige betaling "
+"zal niet beschikbaar zijn"
+
+msgid "expires_on"
+msgstr "geldig t/m"
+
+msgid "approved"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "use_other_card"
+msgstr "voer andere kaart in"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "kaart verificatie"
+
+msgid "see_more"
+msgstr "meer zien"
+
+msgid "order_details"
+msgstr "bestelgegevens"
+
+msgid "submit3ds_title"
+msgstr "betaling niet voltooid"
+
+msgid "submit3ds_text"
+msgstr "a.u.b. voer een andere bevestigingscode in"
+
+msgid "submit3ds_submit"
+msgstr "probeer opnieuw"
+
+msgid "submit3ds_wait"
+msgstr ""
+"u wordt opnieuw doorverwezen naar de website van de bank om uw betaling in "
+"{0} seconden te voltooien"
+
+msgid "server_trouble_title"
+msgstr "Oeps..."
+
+msgid "server_trouble_desc"
+msgstr ""
+"er is iets fout gegaan, maar we zijn er al mee bezig. Ga terug naar de "
+"vorige pagina en doe de betaling opnieuw"
+
+msgid "offer_t"
+msgstr ""
+"ik accepteer <a href=\"{0}\" target=\"_blank\">aanbiedingsvoorwaarden </a>"
+
+msgid "trial_period"
+msgstr "proefperiode"
+
+msgid "first_payment"
+msgstr ""
+
+msgid "amount"
+msgstr "totaal"
+
+msgid "discount"
+msgstr ""
+
+msgid "fee"
+msgstr "commissie"
+
+msgid "total_amount"
+msgstr "totaal bedrag"
+
+msgid "enter_promo_code"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "security_title"
+msgstr "betrouwbare klanten authenticatie"
+
+msgid "security_text"
+msgstr ""
+"<p>In overeenstemming met PCI DSS<p>Geregistreerd in het Visa Global "
+"Registry en geverifieerd door Mastercard"
+
+msgid "other_payment_method"
+msgstr "andere betalingsmethode"
+
+msgid "subscription"
+msgstr "doe deze betaling automatisch opnieuw"
+
+msgid "subscription_amount"
+msgstr "terugkerende betaling"
+
+msgid "unlimited"
+msgstr "onbeperkt"
+
+msgid "verification_desc"
+msgstr ""
+"om uw kaart te verifiëren zullen wij gedurende 15 minuten een klein bedrag "
+"op uw bankrekening inhouden"
+
+msgid "customer_name"
+msgstr "voornaam en Achternaam"
+
+msgid "customer_name_utf8"
+msgstr "naam en Achternaam"
+
+msgid "customer_address"
+msgstr "adres (straat, gebouw, appartement)"
+
+msgid "customer_zip"
+msgstr "postcode"
+
+msgid "customer_city"
+msgstr "stad/Gemeente"
+
+msgid "customer_country"
+msgstr "land"
+
+msgid "customer_state"
+msgstr "staat/Provincie/Regio"
+
+msgid "customer_phonemobile"
+msgstr "telefoonnummer"
+
+msgid "customer_email"
+msgstr "e-mailadres"
+
+msgid "use_monobank_application"
+msgstr ""
+
+msgid "load_more"
+msgstr "Meer laden..."
+
+msgid "pay_with_card"
+msgstr "betalen met kaart"
+
+msgid "cvv2_help"
+msgstr "{0}-cijfers code op de achterkant van uw kaart"
+
+msgid "Payments"
+msgstr ""
+
+msgid "from_amount_month"
+msgstr ""
+
+msgid "payments"
+msgstr ""
+
+msgid "currency_month"
+msgstr ""
+
+msgid "expect_soon"
+msgstr ""
+
+msgid "conditions"
+msgstr ""
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "betalingsgegevens voor bestelling # {0}"
+
+msgid "ibox_title"
+msgstr "bestel ID ( betalen via iBox)"
+
+msgid "full_requesites"
+msgstr "bankgegevens ontvanger"
+
+msgid "full_requesites_explain"
+msgstr ""
+"u hoeft deze niet te vermelden bij de betaling, maar het kan handig zijn "
+"deze te bewaren voor referentie"
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "ontvanger"
+
+msgid "current_bill"
+msgstr "bankrekeningnummer (IBAN)"
+
+msgid "usreou"
+msgstr "fiscaal identificatienummer (FIN)"
+
+msgid "bank"
+msgstr "naam Bank"
+
+msgid "mfo"
+msgstr "bank code (MFO)"
+
+msgid "purpose"
+msgstr "beschrijving"
+
+msgid "receipt_id"
+msgstr "order ID"
+
+msgid "end_date"
+msgstr "betalingstermijn"
+
+msgid "ibox_desc"
+msgstr ""
+"alle iBox-terminals die betalingen accepteren zijn vermeld op de <a "
+"href=\"https://ibox.ua/map\" target=\"_blank\">map</a>"
+
+msgid "save_receipt"
+msgstr "ontvangstbewijs opslaan"
+
+msgid "save_qr_code"
+msgstr "opslaan op smartphone"
+
+msgid "qr_code_text"
+msgstr "scan deze QR-code om het ontvangstbewijs op uw smartphone op te slaan"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Om uw bestelling te betalen, kunt u de Alliance bank-betaalservice in de iBox "
+"terminal vinden via de zoekoptie.<p>Uw bestelling wordt automatisch "
+"geannuleerd na het verlopen van de betalingstermijn.<p>Wij accepteren geen "
+"betaling voor deze bestelling via andere terminals dan iBox"
+
+msgid "sepa_t"
+msgstr "vul uw bankgegevens in"
+
+msgid "bank_desc"
+msgstr ""
+"u wordt doorverwezen naar de website van de bank om uw betaling te voltooien"
+
+msgid "return_to_site"
+msgstr ""
+
+msgid "download_receipt"
+msgstr ""
+
+msgid "payment_id"
+msgstr "betaal-ID"
+
+msgid "demo-title"
+msgstr "demo-modus"
+
+msgid "mode-test"
+msgstr ""
+
+msgid "title-declined"
+msgstr "helaas, je betaling is niet gelukt"
+
+msgid "title-approved"
+msgstr "dank u! Uw betaling is geaccepteerd"
+
+msgid "verification_code_d"
+msgstr ""
+"om uw kaart te verifiëren zullen wij gedurende 15 minuten een klein bedrag "
+"op uw bankrekening inhouden"
+
+msgid "verification_amount_d"
+msgstr ""
+"er wordt 15 minuten lang een klein bedrag op uw bankrekening gehouden om het "
+"eigenaar van de kaart te verifiëren. Voer het verificatiebedrag in dat op uw "
+"rekening staat"
+
+msgid "rule_default"
+msgstr "de {_field_} waarde is ongeldig"
+
+msgid "rule_after"
+msgstr "geldig t/m datum {target}"
+
+msgid "rule_alpha"
+msgstr "a.u.b. alleen letters gebruiken"
+
+msgid "rule_date_format"
+msgstr "vul maand/jaar in"
+
+msgid "rule_decimal"
+msgstr "gebruik cijfers (0-9), punten (.) of komma's (,)"
+
+msgid "rule_digits"
+msgstr "voer aub. {length} cijfers in"
+
+msgid "rule_email"
+msgstr "vul een geldig e-mailadres in"
+
+msgid "rule_max"
+msgstr "vul maximaal {length} tekens in"
+
+msgid "rule_min"
+msgstr "vul aub. {length} minimaal tekens in"
+
+msgid "rule_numeric"
+msgstr "alleen cijfers (0-9) gebruiken"
+
+msgid "rule_required"
+msgstr "vul dit veld in a.u.b"
+
+msgid "rule_regex"
+msgstr "ongeldig formaat"
+
+msgid "rule_no_zero"
+msgstr "Amount should be more than zero"
+
+msgid "rule_customer_name"
+msgstr "vul uw naam en achternaam in, gebruik letters (A-Za-z)"
+
+msgid "rule_customer_field"
+msgstr "vul letters (A-Za-z) en cijfers (0-9) in"
+
+msgid "rule_customer_field_utf8"
+msgstr "a.u.b. hier geen speciale tekens gebruiken"
+
+msgid "rule_phone"
+msgstr ""
+
+msgid "rule_phonemobile"
+msgstr "vul minimaal 7 cijfers (0-9) in"
+
+msgid "rule_numrange"
+msgstr "u heeft teveel cijfers ingevuld"
+
+msgid "rule_ccard"
+msgstr "kaartnummer onjuist"
+
+msgid "rule_expiry_date"
+msgstr "einddatum onjuist"
+
+msgid "rule_cvv"
+msgstr "onjuist CVV2/CVC2"
+
+msgid "rule_one"
+msgstr "deze code kan niet minder zijn dan 1"
+
+msgid "price"
+msgstr "prijs"
+
+msgid "shipping"
+msgstr "verzenden"
+
+msgid "vat"
+msgstr "btw"
+
+msgid "arbitrary_amount"
+msgstr "bedrag"
+
+msgid "ibox_ua"
+msgstr "contant geld via terminal"
+
+msgid "loans_tooltip"
+msgstr "bestel nu, betaal binnen 15 dagen. Commissie 0%"
+
+msgid "button_expired_title"
+msgstr "betaalknop is verlopen"
+
+msgid "button_expired_text"
+msgstr "neem contact op met de verkoper om het probleem op te lossen"
+
+msgid "button_status_not_active_title"
+msgstr "betalingslink is gedeactiveerd"
+
+msgid "button_status_not_active_text"
+msgstr "neem contact op met de verkoper om de betalingslink te ontvangen"
+
+msgid "sender_name"
+msgstr "naam"
+
+msgid "sender_familyName"
+msgstr "achternaam"
+
+msgid "bic"
+msgstr "bic -code"
+
+msgid "iban"
+msgstr "iban"
+
+msgid "wallets_google"
+msgstr ""
+
+msgid "wallets_card"
+msgstr ""
+
+msgid "wallets_apple"
+msgstr ""
+
+msgid "3ds_title"
+msgstr ""
+
+msgid "3ds_link"
+msgstr ""
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr ""
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr ""
+
+msgid "qr_button_sk_viamo"
+msgstr ""
+
+msgid "qr_app_apple_sk_viamo"
+msgstr ""
+
+msgid "qr_app_google_sk_viamo"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "e-mailadres"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "aantal betalingen"
+
+msgid "subscription_every"
+msgstr "elke"
+
+msgid "subscription_period"
+msgstr "tijdsduur"
+
+msgid "subscription_start_time"
+msgstr "vanaf"
+
+msgid "subscription_end_time"
+msgstr "einddatum"
+
+msgid "default_country"
+msgstr "zoeken per land"
+
+msgid "system_search"
+msgstr "zoeken per banknaam, IBAN of BLZ"
+
+msgid "card_number"
+msgstr "kaartnummer"
+
+msgid "expiry_date"
+msgstr "dd/mm"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "bevestigingscode"
+
+msgid "verification_amount"
+msgstr "verificatiebedrag"
+
+msgid "promo_status_approve"
+msgstr ""
+
+msgid "promo_status_expired"
+msgstr ""
+
+msgid "promo_status_invalid"
+msgstr ""
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr ""
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr ""

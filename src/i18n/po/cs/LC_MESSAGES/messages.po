@@ -1,0 +1,647 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 16:50+0300\n"
+"PO-Revision-Date: 2020-09-30 10:39+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: smartCAT.ai\n"
+
+msgid "card"
+msgstr "Karta"
+
+msgid "sepa"
+msgstr "SEPA Direct Debit"
+
+msgid "banklinks_eu"
+msgstr "Internetové bankovnictví"
+
+msgid "receipt"
+msgstr "Bankovní převod"
+
+msgid "local_methods"
+msgstr "Místní platební metody"
+
+msgid "loans"
+msgstr ""
+
+msgid "emoney"
+msgstr "Elektronická peněženka"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr ""
+
+msgid "day"
+msgstr "Den"
+
+msgid "week"
+msgstr "Týden"
+
+msgid "month"
+msgstr "Měsíc"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr ""
+"Na této webové stránce používáme cookies, abychom vylepšili vaši zkušenost s "
+"prováděním plateb."
+
+msgid "learn_more"
+msgstr "Více informací."
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "Uložit mou kartu pro budoucí platby."
+
+msgid "its_safe"
+msgstr "Je to bezpečné."
+
+msgid "gdpr_modal_safe_title"
+msgstr "Uložení karty je bezpečné a pohodlné"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>Nezaznamenáváme údaje o vaší kartě ve formě, ve které je zadáváte, ale "
+"okamžitě je zašifrujeme a uložíme ve formátu náhodných kombinací znaků - "
+"tokenů.<p>Při každé platbě používá platební služba Alliance bank tokeny místo údajů "
+"o kartě, takže potenciální útočník je nemůže zachytit. Zachycení údajů "
+"tokenu nemá smysl, protože mimo platební službu Alliance bank nemají tokeny žádnou "
+"hodnotu."
+
+msgid "close"
+msgstr ""
+
+msgid "not_now"
+msgstr "Teď ne"
+
+msgid "accept"
+msgstr "Souhlasím"
+
+msgid "cancel"
+msgstr ""
+
+msgid "pay"
+msgstr "Zaplatit"
+
+msgid "demo-desc"
+msgstr ""
+
+msgid "expires_on"
+msgstr "Platnost do"
+
+msgid "approved"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "use_other_card"
+msgstr "Zadejte jinou kartu"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "Ověření karty"
+
+msgid "see_more"
+msgstr "Zobrazit více"
+
+msgid "order_details"
+msgstr "Detaily objednávky"
+
+msgid "submit3ds_title"
+msgstr "Platba nebyla dokončena"
+
+msgid "submit3ds_text"
+msgstr "Zadejte prosím jiný potvrzovací kód"
+
+msgid "submit3ds_submit"
+msgstr "Zkusit znovu"
+
+msgid "submit3ds_wait"
+msgstr ""
+"Budete znovu přesměrováni na web banky, abyste dokončili platbuza {0} sekund"
+
+msgid "server_trouble_title"
+msgstr "Jejda.."
+
+msgid "server_trouble_desc"
+msgstr ""
+"Něco není v pořádku, ale už na tom pracujeme. Vraťte se o několik kroků "
+"zpěta proveďte platbu znovu."
+
+msgid "offer_t"
+msgstr "Akceptuji <a href=\"{0}\" target=\"_blank\">podmínky nabídky </a>"
+
+msgid "trial_period"
+msgstr "Zkušební doba"
+
+msgid "first_payment"
+msgstr ""
+
+msgid "amount"
+msgstr "Celkem"
+
+msgid "discount"
+msgstr ""
+
+msgid "fee"
+msgstr "Poplatek"
+
+msgid "total_amount"
+msgstr "Celkem"
+
+msgid "enter_promo_code"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "security_title"
+msgstr "Silné ověřování zákazníků"
+
+msgid "security_text"
+msgstr ""
+"<p>V souladu s mezinárodním bezpečnostním standardem PCI DSS<p>Je uveden v "
+"Globálním registru Visa a ověřen společností Mastercard"
+
+msgid "other_payment_method"
+msgstr "Nebo zaplatit pomocí"
+
+msgid "subscription"
+msgstr "Opakovat platbu automaticky"
+
+msgid "subscription_amount"
+msgstr "Částka opakované platby"
+
+msgid "unlimited"
+msgstr "Neomezený"
+
+msgid "verification_desc"
+msgstr ""
+"Abychom ověřili vaši kartu, zablokujeme na vašem účtu malou částku na 15 "
+"minut."
+
+msgid "customer_name"
+msgstr "Jméno držitele karty"
+
+msgid "customer_name_utf8"
+msgstr "Celé jméno"
+
+msgid "customer_address"
+msgstr "Adresa (ulice, č.p./č.o.)"
+
+msgid "customer_zip"
+msgstr "PSČ"
+
+msgid "customer_city"
+msgstr "Město/obec"
+
+msgid "customer_country"
+msgstr "Země"
+
+msgid "customer_state"
+msgstr "Kraj/okres"
+
+msgid "customer_phonemobile"
+msgstr "Telefon"
+
+msgid "customer_email"
+msgstr "E-mail"
+
+msgid "use_monobank_application"
+msgstr ""
+
+msgid "load_more"
+msgstr "Načíst další..."
+
+msgid "pay_with_card"
+msgstr "Zaplatit kartou"
+
+msgid "cvv2_help"
+msgstr "{0}-číselný kód na zadní straně karty"
+
+msgid "Payments"
+msgstr ""
+
+msgid "from_amount_month"
+msgstr ""
+
+msgid "payments"
+msgstr ""
+
+msgid "currency_month"
+msgstr ""
+
+msgid "expect_soon"
+msgstr ""
+
+msgid "conditions"
+msgstr ""
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "Platební údaje pro objednávku # {0}"
+
+msgid "ibox_title"
+msgstr "Číslo objednávky (pro platbu v terminálu iBox)"
+
+msgid "full_requesites"
+msgstr "Bankovní údaje příjemce"
+
+msgid "full_requesites_explain"
+msgstr ""
+"Při platbě je nebudete muset zadávat, ale můžete si jeuložit k ověření."
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "Příjemce"
+
+msgid "current_bill"
+msgstr "Číslo bankovního účtu (IBAN)"
+
+msgid "usreou"
+msgstr "Daňové identifikační číslo (DIČ)"
+
+msgid "bank"
+msgstr "Název banky"
+
+msgid "mfo"
+msgstr "Kód banky (MFO)"
+
+msgid "purpose"
+msgstr "Účel platby"
+
+msgid "receipt_id"
+msgstr "Číslo objednávky"
+
+msgid "end_date"
+msgstr "Termín platby"
+
+msgid "ibox_desc"
+msgstr ""
+"Všechny terminály iBox, kde je možné provést platbu, jsou označeny na <a "
+"href=\"https://ibox.ua/map\" target=\"_blank\">mapě</a>"
+
+msgid "save_receipt"
+msgstr "Uložit účtenku"
+
+msgid "save_qr_code"
+msgstr "Uložit do smartphonu"
+
+msgid "qr_code_text"
+msgstr "Naskenujte tento QR kód pro uložení účtenky do smartphonu"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Chcete-li zaplatit za objednávku, najděte platební službu Alliance bank "
+"prostřednictvím možnosti Hledat v platebním terminálu iBox.<p>Po uplynutí "
+"termínu platby bude vaše objednávka zrušena.<p>Nepřijmeme platbu za tuto "
+"objednávku prostřednictvím jiných terminálů než iBox."
+
+msgid "sepa_t"
+msgstr "Zadejte údaje o svém bankovním účtu"
+
+msgid "bank_desc"
+msgstr "Budete přesměrováni na web banky, abyste dokončili platbu"
+
+msgid "return_to_site"
+msgstr ""
+
+msgid "download_receipt"
+msgstr ""
+
+msgid "payment_id"
+msgstr "ID platby"
+
+msgid "demo-title"
+msgstr ""
+
+msgid "mode-test"
+msgstr ""
+
+msgid "title-declined"
+msgstr "Vaše platba bohužel neproběhla úspěšně"
+
+msgid "title-approved"
+msgstr "Děkujeme, vaše platba byla přijata"
+
+msgid "verification_code_d"
+msgstr ""
+"Abychom ověřili vaši kartu, zablokujeme na vašem účtu maloučástku na 15 "
+"minut."
+
+msgid "verification_amount_d"
+msgstr ""
+"Na vašem účtu zablokujeme malou částku na 15 minut, abychom ověřili, že "
+"karta patří vám. Zadejte prosím ověřovací částku zablokovanou na vašem účtu."
+
+msgid "rule_default"
+msgstr "Hodnota {_field_} není platná"
+
+msgid "rule_after"
+msgstr "Platnost karty nemůže být pozdější než {target}"
+
+msgid "rule_alpha"
+msgstr "Používejte prosím pouze písmena"
+
+msgid "rule_date_format"
+msgstr "Zadejte prosím měsíc/rok"
+
+msgid "rule_decimal"
+msgstr "Použijte prosím číslice (0-9), tečky (.) nebo čárky (,)"
+
+msgid "rule_digits"
+msgstr "Zadejte prosím {length} číslice"
+
+msgid "rule_email"
+msgstr "Zadejte prosím platný e-mail"
+
+msgid "rule_max"
+msgstr "Zadejte prosím maximálně {length} znaků."
+
+msgid "rule_min"
+msgstr "Zadejte prosím minimálně {length} znaků."
+
+msgid "rule_numeric"
+msgstr "Použijte prosím pouze číslice (0-9)"
+
+msgid "rule_required"
+msgstr "Vyplňte prosím toto pole"
+
+msgid "rule_regex"
+msgstr "Neplatný formát"
+
+msgid "rule_no_zero"
+msgstr "Amount should be more than zero"
+
+msgid "rule_customer_name"
+msgstr "Zadejte prosím jméno i příjmení, použijte písmena (A-Za-z)"
+
+msgid "rule_customer_field"
+msgstr "Použijte prosím písmena (A-Za-z) a číslice (0-9)"
+
+msgid "rule_customer_field_utf8"
+msgstr "Prosím nepoužívejte zde speciální znaky"
+
+msgid "rule_phone"
+msgstr ""
+
+msgid "rule_phonemobile"
+msgstr "Zadejte prosím alespoň 7 číslic (0-9)"
+
+msgid "rule_numrange"
+msgstr "Zadali jste příliš mnoho číslic"
+
+msgid "rule_ccard"
+msgstr "Nesprávné číslo karty"
+
+msgid "rule_expiry_date"
+msgstr "Nesprávné datum vypršení platnosti"
+
+msgid "rule_cvv"
+msgstr "Nesprávný CVV2/CVC2"
+
+msgid "rule_one"
+msgstr "Hodnota nesmí být menší než 1"
+
+msgid "price"
+msgstr "Cena"
+
+msgid "shipping"
+msgstr "Dodávka"
+
+msgid "vat"
+msgstr "DPH"
+
+msgid "arbitrary_amount"
+msgstr "Částka"
+
+msgid "ibox_ua"
+msgstr "Hotovost prostřednictvím terminálu"
+
+msgid "loans_tooltip"
+msgstr ""
+
+msgid "button_expired_title"
+msgstr ""
+
+msgid "button_expired_text"
+msgstr ""
+
+msgid "button_status_not_active_title"
+msgstr ""
+
+msgid "button_status_not_active_text"
+msgstr ""
+
+msgid "sender_name"
+msgstr "Jméno"
+
+msgid "sender_familyName"
+msgstr "Příjmení"
+
+msgid "bic"
+msgstr "BIC"
+
+msgid "iban"
+msgstr "IBAN"
+
+msgid "wallets_google"
+msgstr ""
+
+msgid "wallets_card"
+msgstr ""
+
+msgid "wallets_apple"
+msgstr ""
+
+msgid "3ds_title"
+msgstr ""
+
+msgid "3ds_link"
+msgstr ""
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr ""
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr ""
+
+msgid "qr_button_sk_viamo"
+msgstr ""
+
+msgid "qr_app_apple_sk_viamo"
+msgstr ""
+
+msgid "qr_app_google_sk_viamo"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "E-mail"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "Počet plateb"
+
+msgid "subscription_every"
+msgstr "Každý"
+
+msgid "subscription_period"
+msgstr "Období"
+
+msgid "subscription_start_time"
+msgstr "Počínaje dnem"
+
+msgid "subscription_end_time"
+msgstr "Datum ukončení"
+
+msgid "default_country"
+msgstr "Vyhledávání podle země"
+
+msgid "system_search"
+msgstr "Vyhledávání podle názvu banky, IBAN nebo BLZ"
+
+msgid "card_number"
+msgstr "Číslo karty"
+
+msgid "expiry_date"
+msgstr "MM/RR"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "Potvrzovací kód"
+
+msgid "verification_amount"
+msgstr "Ověřovací částka"
+
+msgid "promo_status_approve"
+msgstr ""
+
+msgid "promo_status_expired"
+msgstr ""
+
+msgid "promo_status_invalid"
+msgstr ""
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr ""
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr ""

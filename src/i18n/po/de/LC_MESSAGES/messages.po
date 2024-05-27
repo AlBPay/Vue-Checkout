@@ -1,0 +1,656 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 16:50+0300\n"
+"PO-Revision-Date: 2020-09-30 10:39+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: smartCAT.ai\n"
+
+msgid "card"
+msgstr "Karte "
+
+msgid "sepa"
+msgstr "SEPA Direct Debit"
+
+msgid "banklinks_eu"
+msgstr "Online-Banking"
+
+msgid "receipt"
+msgstr "Banküberweisung"
+
+msgid "local_methods"
+msgstr "Lokale Zahlungsmethoden"
+
+msgid "loans"
+msgstr ""
+
+msgid "emoney"
+msgstr "Wallet"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr ""
+
+msgid "day"
+msgstr "Tag"
+
+msgid "week"
+msgstr "Woche"
+
+msgid "month"
+msgstr "Monat"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr ""
+"Diese Website verwendet Cookies, um Ihnen eine angenehme und bequeme Zahlung "
+"zu ermöglichen."
+
+msgid "learn_more"
+msgstr "Mehr Informationen."
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "Ihre Karte für eine schnelle Rückzahlung speichern."
+
+msgid "its_safe"
+msgstr "Es ist sicher."
+
+msgid "gdpr_modal_safe_title"
+msgstr "Das Speichern Ihrer Karte ist sicher und bequem"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>\"Wir erfassen Ihre Kartendaten nicht in der Form, in der Sie sie "
+"eingeben, sondern verschlüsseln sie sofort und speichern sie im Format "
+"zufälliger  Zeichenkombinationen - \"\"Token\"\".  <p>Für jede Zahlung "
+"verwendet der Alliance bank-Zahlungsdienst ein Token anstelle von Kartendaten, "
+"sodass ein potenzieller Angreifer diese nicht abfangen kann. Es macht keinen "
+"Sinn, Token-Daten abzufangen, da Token außerhalb des Alliance bank-Zahlungsdienstes "
+"keinen Wert haben."
+
+msgid "close"
+msgstr ""
+
+msgid "not_now"
+msgstr "Nicht jetzt"
+
+msgid "accept"
+msgstr "Erlaube"
+
+msgid "cancel"
+msgstr ""
+
+msgid "pay"
+msgstr "Zahlen"
+
+msgid "demo-desc"
+msgstr ""
+
+msgid "expires_on"
+msgstr "Gültig bis"
+
+msgid "approved"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "use_other_card"
+msgstr "Eine andere Karte eingeben"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "Kartenüberprüfung"
+
+msgid "see_more"
+msgstr "Vollständig anzeigen"
+
+msgid "order_details"
+msgstr "Vollständige Beschreibung der Bestellung"
+
+msgid "submit3ds_title"
+msgstr "Zahlung wurde nicht abgeschlossen"
+
+msgid "submit3ds_text"
+msgstr "Geben Sie einen anderen Bestätigungscode ein"
+
+msgid "submit3ds_submit"
+msgstr "Wiederholen"
+
+msgid "submit3ds_wait"
+msgstr ""
+"Wir werden Sie auf die Website der Bank für den Zahlungsabschluß in {0} "
+"Sekunden weiterleiten"
+
+msgid "server_trouble_title"
+msgstr "Ups.."
+
+msgid "server_trouble_desc"
+msgstr ""
+"Etwas stimmt nicht, aber wir sind schon dabei. Bitte kehren Sie einige "
+"Schrittezurück und leisten Sie erneut eine Zahlung."
+
+msgid "offer_t"
+msgstr ""
+"Ich akzeptiere <a href=\"{0}\" target=\"_blank\">die Bedingungen des "
+"Angebots </a>"
+
+msgid "trial_period"
+msgstr "Probezeit"
+
+msgid "first_payment"
+msgstr ""
+
+msgid "amount"
+msgstr "Zur Zahlung "
+
+msgid "discount"
+msgstr ""
+
+msgid "fee"
+msgstr "Kommission"
+
+msgid "total_amount"
+msgstr "Zur Zahlung"
+
+msgid "enter_promo_code"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "security_title"
+msgstr "Kundendaten sind geschützt"
+
+msgid "security_text"
+msgstr ""
+"<p>Gemäß dem internationalen Zahlungssicherheitsstandard PCI DSS. "
+"<p>Reguliert durch internationale Zahlungssysteme Visa und Mastercard"
+
+msgid "other_payment_method"
+msgstr "Andere Zahlungsmethoden"
+
+msgid "subscription"
+msgstr "Zahlung automatisch wiederholen"
+
+msgid "subscription_amount"
+msgstr "Regelmäßige Zahlung"
+
+msgid "unlimited"
+msgstr "Unbegrenzt"
+
+msgid "verification_desc"
+msgstr ""
+"Um Ihre Karte zu überprüfen, werden wir einen kleinen Betrag in Ihrem Konto "
+"für 15 Minuten einfrieren."
+
+msgid "customer_name"
+msgstr "Kundenname und Nachname"
+
+msgid "customer_name_utf8"
+msgstr "Kundenname und Nachname"
+
+msgid "customer_address"
+msgstr "Adresse"
+
+msgid "customer_zip"
+msgstr "Postleitzahl"
+
+msgid "customer_city"
+msgstr "Siedlung"
+
+msgid "customer_country"
+msgstr "Land"
+
+msgid "customer_state"
+msgstr "Gebiet, Region"
+
+msgid "customer_phonemobile"
+msgstr "Telefon"
+
+msgid "customer_email"
+msgstr "E-Mail"
+
+msgid "use_monobank_application"
+msgstr ""
+
+msgid "load_more"
+msgstr "Mehr laden..."
+
+msgid "pay_with_card"
+msgstr "Mit Karte bezahlen"
+
+msgid "cvv2_help"
+msgstr "{0}-Prüfnummer auf der Rückseite Ihrer Karte"
+
+msgid "Payments"
+msgstr ""
+
+msgid "from_amount_month"
+msgstr ""
+
+msgid "payments"
+msgstr ""
+
+msgid "currency_month"
+msgstr ""
+
+msgid "expect_soon"
+msgstr ""
+
+msgid "conditions"
+msgstr ""
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "Details für die Zahlung der Bestellung Nr. {0}"
+
+msgid "ibox_title"
+msgstr "Bestellnummer (für die Zahlung im iBox-Terminal)"
+
+msgid "full_requesites"
+msgstr "Alle Details des Zahlungsempfängers"
+
+msgid "full_requesites_explain"
+msgstr ""
+"Sie müssen sie während der Zahlung nicht eingeben, können sie jedoch zur "
+"Überprüfung speichern."
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "Zahlungsempfänger"
+
+msgid "current_bill"
+msgstr "Girokonto"
+
+msgid "usreou"
+msgstr ""
+"Kode des Einheitlichen staatlichen Registers der Betriebe und Organisationen "
+"der Ukraine"
+
+msgid "bank"
+msgstr "Bankname"
+
+msgid "mfo"
+msgstr "Bankleitzahl"
+
+msgid "purpose"
+msgstr "Zahlungszweck"
+
+msgid "receipt_id"
+msgstr "Bestellnummer"
+
+msgid "end_date"
+msgstr "Frist für die Zahlung"
+
+msgid "ibox_desc"
+msgstr ""
+"Alle iBox-Terminals, an denen Sie eine Zahlung vornehmen können, sind auf "
+"der Karte <a href=\"https://ibox.ua/map\" target=\"_blank\">markiert</a> "
+
+msgid "save_receipt"
+msgstr "Quittung speichern"
+
+msgid "save_qr_code"
+msgstr "Auf Smartphone speichern"
+
+msgid "qr_code_text"
+msgstr ""
+"Scannen Sie diesen QR-Code, um die Quittung auf Ihrem Smartphone zu speichern"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Um Ihre Bestellung zu bezahlen, suchen Sie den Alliance bank-Zahlungsdienst über "
+"\"Suchen\"im iBox-Zahlungsterminal. <p>Nach Ablauf der Zahlungsfrist wird "
+"Ihre Bestellungstorniert. <p>Zahlungen in Terminals anderer "
+"Zahlungsdienstewerden nicht akzeptiert."
+
+msgid "sepa_t"
+msgstr "Geben Sie Ihre Bankkontodaten an"
+
+msgid "bank_desc"
+msgstr ""
+"Wir werden Sie auf die Website der Bank für den Zahlungsabschluß weiterleiten"
+
+msgid "return_to_site"
+msgstr ""
+
+msgid "download_receipt"
+msgstr ""
+
+msgid "payment_id"
+msgstr "Zahlungs-ID"
+
+msgid "demo-title"
+msgstr ""
+
+msgid "mode-test"
+msgstr ""
+
+msgid "title-declined"
+msgstr "Leider konnten wir Ihre Zahlung nicht akzeptieren"
+
+msgid "title-approved"
+msgstr "Danke, Ihre Zahlung wird akzeptiert"
+
+msgid "verification_code_d"
+msgstr ""
+"Um Ihre Karte zu überprüfen, werden wir einen kleinen Betrag in Ihrem "
+"Kontofür 15 Minuten einfrieren."
+
+msgid "verification_amount_d"
+msgstr ""
+"Wir werden einen kleinen Betrag auf Ihrem Konto für 15 Minuten einfrieren, "
+"um sicherzustellen, dass die Karte Ihnen gehört."
+
+msgid "rule_default"
+msgstr "Der Wert {_field_} ist ungültig"
+
+msgid "rule_after"
+msgstr "Gültigkeitsdauer der Karte kann nicht später als  {target} sein"
+
+msgid "rule_alpha"
+msgstr "Bitte verwenden Sie nur Buchstaben"
+
+msgid "rule_date_format"
+msgstr "Bitte geben Sie Monat / Jahr ein"
+
+msgid "rule_decimal"
+msgstr "Verwenden Sie Zahlen (0-9), Punkte (.) oder Kommas (,)."
+
+msgid "rule_digits"
+msgstr "Geben Sie {length}  Zeichen ein"
+
+msgid "rule_email"
+msgstr "Bitte geben Sie eine gültige Email-Adresse ein"
+
+msgid "rule_max"
+msgstr "Geben Sie mindestens {length} Zeichen ein."
+
+msgid "rule_min"
+msgstr "Geben Sie wenigstens {length} Zeichen ein."
+
+msgid "rule_numeric"
+msgstr "Verwenden Sie nur Zahlen (0-9)"
+
+msgid "rule_required"
+msgstr "Füllen Sie dieses Feld aus"
+
+msgid "rule_regex"
+msgstr "Ungültiges Format"
+
+msgid "rule_no_zero"
+msgstr "Amount should be more than zero"
+
+msgid "rule_customer_name"
+msgstr "Geben Sie den Vor- und Nachnamen mit Buchstaben ein (A-Za-z)."
+
+msgid "rule_customer_field"
+msgstr "Verwenden Sie Buchstaben (A-Za-z) und Symbole (0-9)"
+
+msgid "rule_customer_field_utf8"
+msgstr "Verwenden Sie in diesem Feld keine Sonderzeichen"
+
+msgid "rule_phone"
+msgstr ""
+
+msgid "rule_phonemobile"
+msgstr "Bitte geben Sie mindestens 7 Ziffern (0-9) ein."
+
+msgid "rule_numrange"
+msgstr "Sie haben zu viele Zahlen eingegeben"
+
+msgid "rule_ccard"
+msgstr "Ungültige Kartennummer"
+
+msgid "rule_expiry_date"
+msgstr "Ungültiges Ablaufdatum"
+
+msgid "rule_cvv"
+msgstr "Ungültige CVV2 / CVC2-Daten"
+
+msgid "rule_one"
+msgstr "Der Wert darf nicht kleiner als 1 sein"
+
+msgid "price"
+msgstr "Kost"
+
+msgid "shipping"
+msgstr "Anlieferung"
+
+msgid "vat"
+msgstr "MWSt"
+
+msgid "arbitrary_amount"
+msgstr "Betrag"
+
+msgid "ibox_ua"
+msgstr "Bargeld im Terminal"
+
+msgid "loans_tooltip"
+msgstr ""
+
+msgid "button_expired_title"
+msgstr ""
+
+msgid "button_expired_text"
+msgstr ""
+
+msgid "button_status_not_active_title"
+msgstr ""
+
+msgid "button_status_not_active_text"
+msgstr ""
+
+msgid "sender_name"
+msgstr "Name"
+
+msgid "sender_familyName"
+msgstr "Familienname"
+
+msgid "bic"
+msgstr "BIC"
+
+msgid "iban"
+msgstr "IBAN"
+
+msgid "wallets_google"
+msgstr ""
+
+msgid "wallets_card"
+msgstr ""
+
+msgid "wallets_apple"
+msgstr ""
+
+msgid "3ds_title"
+msgstr ""
+
+msgid "3ds_link"
+msgstr ""
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr ""
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr ""
+
+msgid "qr_button_sk_viamo"
+msgstr ""
+
+msgid "qr_app_apple_sk_viamo"
+msgstr ""
+
+msgid "qr_app_google_sk_viamo"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "Anzahl der Zahlungen"
+
+msgid "subscription_every"
+msgstr "Frequenz"
+
+msgid "subscription_period"
+msgstr "Periode"
+
+msgid "subscription_start_time"
+msgstr "Erste Zahlung"
+
+msgid "subscription_end_time"
+msgstr "Enddatum"
+
+msgid "default_country"
+msgstr "Suche nach Land"
+
+msgid "system_search"
+msgstr "Suche nach Banknamen, IBAN oder BLZ"
+
+msgid "card_number"
+msgstr "Kartennummer"
+
+msgid "expiry_date"
+msgstr "MM/JJ"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "Bestätigungscode"
+
+msgid "verification_amount"
+msgstr "Überprüfungsbetrag"
+
+msgid "promo_status_approve"
+msgstr ""
+
+msgid "promo_status_expired"
+msgstr ""
+
+msgid "promo_status_invalid"
+msgstr ""
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr ""
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr ""

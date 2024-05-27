@@ -1,0 +1,71 @@
+.f-tooltip-security-icons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: px-to-rem(16px);
+  opacity: 0.5;
+}
+
+.f-tooltip-security-content {
+  font-size: px-to-rem(14px);
+  font-weight: 400;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.f-tooltip-icons {
+  .f-tooltip-inner {
+    flex-wrap: wrap;
+    max-width: px-to-rem(304px);
+    padding: px-to-rem(12px) px-to-rem(4px) px-to-rem(4px) px-to-rem(12px);
+  }
+
+  .f-icon {
+    margin: 0 px-to-rem(8px) px-to-rem(8px) 0;
+    border-radius: px-to-rem(3px);
+    box-shadow: 0 px-to-rem(1px) px-to-rem(4px) $tooltip_icons_shadow;
+  }
+}
+
+.f-tooltip-error {
+  .f-tooltip-inner {
+    align-items: center;
+    color: $error;
+  }
+}
+
+.f-tooltip-select {
+  &.f-tooltip-auto {
+    padding: px-to-rem(4px) 0;
+  }
+
+  .f-tooltip-arrow {
+    display: none;
+  }
+
+  .f-tooltip-inner {
+    display: block;
+    padding: 0;
+  }
+}
+
+.f-tooltip-select-card {
+  .f-tooltip-inner {
+    display: block;
+    width: px-to-rem(400px);
+    max-width: px-to-rem(400px);
+    padding: px-to-rem(8px) 0;
+  }
+}
+
+.f-tooltip-menu {
+  .f-tooltip-inner {
+    align-items: center;
+  }
+
+  svg {
+    flex: 0 0 px-to-rem(50px);
+    max-width: px-to-rem(50px);
+  }
+}

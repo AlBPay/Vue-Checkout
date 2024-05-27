@@ -1,0 +1,655 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 16:50+0300\n"
+"PO-Revision-Date: 2021-03-19 11:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "card"
+msgstr "kart"
+
+msgid "sepa"
+msgstr "sepa birbaşa debet"
+
+msgid "banklinks_eu"
+msgstr "internet bankı"
+
+msgid "receipt"
+msgstr "bank köçürməsi"
+
+msgid "local_methods"
+msgstr "yerli ödəmə üsulları"
+
+msgid "loans"
+msgstr "online hissə-hissə ödəniş"
+
+msgid "emoney"
+msgstr "rəqəmsal cüzdan"
+
+msgid "crypto"
+msgstr ""
+
+msgid "most_popular"
+msgstr ""
+
+msgid "installments"
+msgstr ""
+
+msgid "day"
+msgstr "gün"
+
+msgid "week"
+msgstr "həftə"
+
+msgid "month"
+msgstr "ay"
+
+msgid "gdpr_yapily"
+msgstr ""
+
+msgid "gdpr_alert_text"
+msgstr "ödəmələrinizi asanlaşdırmaq üçün bu veb saytda cookies istifadə edirik"
+
+msgid "learn_more"
+msgstr "daha ətraflı"
+
+msgid "gdpr_modal_text"
+msgstr ""
+
+msgid "save_card"
+msgstr "kartımı gələcək ödənişlər üçün saxla"
+
+msgid "its_safe"
+msgstr "təhlükəsizdir"
+
+msgid "gdpr_modal_safe_title"
+msgstr "kartın saxlanılması təhlükəsiz və rahatdır"
+
+msgid "gdpr_modal_safe"
+msgstr ""
+"<p>Kart məlumatlarını daxil edərkən onları yazmırıq. Faktiki olaraq onları "
+"anında şifrələşdirərək token formatında saxlayırıq. Tokenlər rəqəmlərin və "
+"simvolların təsadüfi birləşmələridir.<p>Növbəti hər ödənişdə Alliance bank, "
+"potensial dələduzlardan qorumaq məqsədilə kart məlumatları əvəzinə tokenlər "
+"istifadə edəcək. məlumatlarını ələ keçirməyin mənası yoxdur, çünki Alliance bank "
+"ödəmə xidmətinin xaricində onların heç bir dəyəri yoxdur"
+
+msgid "close"
+msgstr ""
+
+msgid "not_now"
+msgstr "sonra soruşun"
+
+msgid "accept"
+msgstr "razıyam"
+
+msgid "cancel"
+msgstr ""
+
+msgid "pay"
+msgstr "ödə"
+
+msgid "demo-desc"
+msgstr ""
+"bu bir demo rejimidir. Hər hansı bir məlumat daxil edə bilərsiniz, faktiki "
+"ödəniş olmayacaq"
+
+msgid "expires_on"
+msgstr "etibarlıdır"
+
+msgid "approved"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "use_other_card"
+msgstr "başqa bir kart daxil edin"
+
+msgid "all_methods"
+msgstr ""
+
+msgid "verification_t"
+msgstr "kart doğrulaması"
+
+msgid "see_more"
+msgstr "daha ətraflı bax"
+
+msgid "order_details"
+msgstr "sifariş detalları"
+
+msgid "submit3ds_title"
+msgstr "ödəniş tamamlanmadı"
+
+msgid "submit3ds_text"
+msgstr "lütfən, başqa bir təsdiqləmə kodu daxil edin"
+
+msgid "submit3ds_submit"
+msgstr "yenidən cəhd edin"
+
+msgid "submit3ds_wait"
+msgstr ""
+"ödənişinizi {0} saniyə ərzində başa çatdırmaq üçün yenidən bankın veb "
+"saytına yönləndiriləcəksiniz"
+
+msgid "server_trouble_title"
+msgstr "Vay.."
+
+msgid "server_trouble_desc"
+msgstr ""
+"nə isə səhvdir, amma biz artıq bunun üzərində işləyirik.Bir neçə addım geri "
+"qayıdın və yenidən ödənişi edin"
+
+msgid "offer_t"
+msgstr "<a href=\"{0}\" target=\"_blank\">sifariş şərtlərini</a> qəbul edirəm"
+
+msgid "trial_period"
+msgstr "sınaq müddəti"
+
+msgid "first_payment"
+msgstr ""
+
+msgid "amount"
+msgstr "cəmi"
+
+msgid "discount"
+msgstr ""
+
+msgid "fee"
+msgstr "komissiya"
+
+msgid "total_amount"
+msgstr "ümumi"
+
+msgid "enter_promo_code"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "security_title"
+msgstr "güclü müştəri identifikasiyası"
+
+msgid "security_text"
+msgstr ""
+"<p>In compliance with PCI DSS<p>Listed on Visa Global Registry and verified "
+"by Mastercard"
+
+msgid "other_payment_method"
+msgstr "və ya ilə ödə"
+
+msgid "subscription"
+msgstr "bu ödəməni avtomatik olaraq təkrarlayın"
+
+msgid "subscription_amount"
+msgstr "təkrarlanan ödəniş məbləği"
+
+msgid "unlimited"
+msgstr "limitsiz"
+
+msgid "verification_desc"
+msgstr ""
+"kartınızı doğrulamaq üçün 15 dəqiqə ərzində bank hesabınızdan kiçik bir "
+"təsdiq haqqı alacağıq"
+
+msgid "customer_name"
+msgstr "adı və Soyadı"
+
+msgid "customer_name_utf8"
+msgstr "adı və Soyadı"
+
+msgid "customer_address"
+msgstr "ünvan (küçə, ev, mənzil)"
+
+msgid "customer_zip"
+msgstr "zip/Poçt kodu"
+
+msgid "customer_city"
+msgstr "şəhər/Rayon"
+
+msgid "customer_country"
+msgstr "ölkə"
+
+msgid "customer_state"
+msgstr "ştat /Əyalət/ Rayon"
+
+msgid "customer_phonemobile"
+msgstr "telefon"
+
+msgid "customer_email"
+msgstr "email"
+
+msgid "use_monobank_application"
+msgstr ""
+
+msgid "load_more"
+msgstr "daha çox yüklə"
+
+msgid "pay_with_card"
+msgstr "kartla ödəniş edin"
+
+msgid "cvv2_help"
+msgstr "{0}-digit code on the back of your card"
+
+msgid "Payments"
+msgstr ""
+
+msgid "from_amount_month"
+msgstr ""
+
+msgid "payments"
+msgstr ""
+
+msgid "currency_month"
+msgstr ""
+
+msgid "expect_soon"
+msgstr ""
+
+msgid "conditions"
+msgstr ""
+
+msgid "installments_desc_monobank_ua"
+msgstr ""
+
+msgid "installments_desc_privatbank_ua"
+msgstr ""
+
+msgid "most_popular_methods_in"
+msgstr ""
+
+msgid "see_all_other_methods"
+msgstr ""
+
+msgid "mfo_title"
+msgstr "sifariş # {0} üçün ödəniş detalları"
+
+msgid "ibox_title"
+msgstr "sifariş ID (iBox vasitəsilə ödəniləcək)"
+
+msgid "full_requesites"
+msgstr "alıcının bank məlumatları"
+
+msgid "full_requesites_explain"
+msgstr ""
+"ödəniş edərkən bunları əlavə etməyinizə ehtiyac yoxdur, ancaq istinad üçün "
+"saxlamaq faydalı ola bilər"
+
+msgid "UAH"
+msgstr "UAH"
+
+msgid "receiver"
+msgstr "alıcı"
+
+msgid "current_bill"
+msgstr "bank hesab nömrəsi (IBAN)"
+
+msgid "usreou"
+msgstr "tax identification number (TIN)"
+
+msgid "bank"
+msgstr "bank adı"
+
+msgid "mfo"
+msgstr "bank kodu (MFO)"
+
+msgid "purpose"
+msgstr "təsvir"
+
+msgid "receipt_id"
+msgstr "sifariş ID-si"
+
+msgid "end_date"
+msgstr "ödəniş müddəti"
+
+msgid "ibox_desc"
+msgstr ""
+"ödənişləri qəbul edən bütün iBox terminalları <a href=\"https://ibox.ua/"
+"map\" target=\"_blank\">map</a>"
+
+msgid "save_receipt"
+msgstr "qəbz saxla"
+
+msgid "save_qr_code"
+msgstr "smartfona qeyd edin"
+
+msgid "qr_code_text"
+msgstr "qəbzinizi smartfonunuza saxlamaq üçün bu QR kodu skan edin"
+
+msgid "ibox_info"
+msgstr ""
+"<p>Sifarişi ödəmək üçün, lütfən iBox terminalında Alliance bank ödəniş xidmətini "
+"tapmaq üçün Axtarış seçimini istifadə edin.<p>Sifarişiniz son tarixdən sonra "
+"avtomatik olaraq ləğv ediləcəkdir.<p>Bu sifariş üçün iBox xaricindəki "
+"terminallar vasitəsilə ödəniş qəbul etməyəcəyik"
+
+msgid "sepa_t"
+msgstr "bank hesabınızın məlumatlarını verin"
+
+msgid "bank_desc"
+msgstr "ödənişinizi tamamlamaq üçün bankın veb saytına yönləndiriləcəksiniz"
+
+msgid "return_to_site"
+msgstr ""
+
+msgid "download_receipt"
+msgstr ""
+
+msgid "payment_id"
+msgstr "ödəniş ID-si"
+
+msgid "demo-title"
+msgstr "demo rejimi"
+
+msgid "mode-test"
+msgstr ""
+
+msgid "title-declined"
+msgstr "təəssüf ki, ödənişiniz baş tutmadı"
+
+msgid "title-approved"
+msgstr "təşəkkür edirik! Ödənişiniz qəbul olundu"
+
+msgid "verification_code_d"
+msgstr ""
+"kartınızı doğrulamaq üçün 15 dəqiqə ərzində bank hesabınızdan kiçik bir "
+"təsdiq komissiyası alacağıq"
+
+msgid "verification_amount_d"
+msgstr ""
+"kartın sahibliyini təsdiqləmək üçün bank hesabınızda 15 dəqiqə ərzində kiçik "
+"bir komissiya tutulacaq. Zəhmət olmasa hesabınızda saxlanılan təsdiqləmə "
+"məbləğini daxil edin"
+
+msgid "rule_default"
+msgstr "{_field_} məbləğ yanlışdır"
+
+msgid "rule_after"
+msgstr "etibarlılıq tarixi {target} sonra ola bilməz"
+
+msgid "rule_alpha"
+msgstr "lütfən, yalnız hərflərdən istifadə edin"
+
+msgid "rule_date_format"
+msgstr "lütfən, ay/il daxil edin"
+
+msgid "rule_decimal"
+msgstr ""
+"xahiş edirik rəqəmləri (0-9), nöqtələri (.) və ya vergülləri (,) istifadə "
+"edin"
+
+msgid "rule_digits"
+msgstr "zəhmət olmasa {length} rəqəm daxil edin"
+
+msgid "rule_email"
+msgstr "xahiş edirik etibarlı bir e-poçt daxil edin"
+
+msgid "rule_max"
+msgstr "lütfən, maksimum {length} simvol daxil edin"
+
+msgid "rule_min"
+msgstr "lütfən, minimum {length} simvol daxil edin"
+
+msgid "rule_numeric"
+msgstr "xahiş edirik yalnız (0-9) rəqəmlərdən istifadə edin"
+
+msgid "rule_required"
+msgstr "xahiş edirik bu sahəni doldurun"
+
+msgid "rule_regex"
+msgstr "yanlış format"
+
+msgid "rule_no_zero"
+msgstr "Amount should be more than zero"
+
+msgid "rule_customer_name"
+msgstr ""
+"zəhmət olmasa adınızı və soyadınızı daxil edin, hərflərdən istifadə edin (A-"
+"Za-z)"
+
+msgid "rule_customer_field"
+msgstr "zəhmət olmasa hərflərdən (A-Za-z) və rəqəmlərdən (0-9) istifadə edin"
+
+msgid "rule_customer_field_utf8"
+msgstr "xahiş edirik burada xüsusi simvollardan istifadə etməyin"
+
+msgid "rule_phone"
+msgstr ""
+
+msgid "rule_phonemobile"
+msgstr "zəhmət olmasa ən azı 7 rəqəm daxil edin (0-9)"
+
+msgid "rule_numrange"
+msgstr "həddən artıq çox rəqəm daxil etdiniz"
+
+msgid "rule_ccard"
+msgstr "kart nömrəsi yanlışdır"
+
+msgid "rule_expiry_date"
+msgstr "son istifadə tarixi yanlışdır"
+
+msgid "rule_cvv"
+msgstr "CVV2/CVC2 yanlışdır"
+
+msgid "rule_one"
+msgstr "bu dəyər 1-dən az ola bilməz"
+
+msgid "price"
+msgstr "qiymət"
+
+msgid "shipping"
+msgstr "çatdırılma"
+
+msgid "vat"
+msgstr "vat"
+
+msgid "arbitrary_amount"
+msgstr "məbləğ"
+
+msgid "ibox_ua"
+msgstr "terminal vasitəsilə nağd pul"
+
+msgid "loans_tooltip"
+msgstr "indi al, 15 günə ödə. Komissiya 0%"
+
+msgid "button_expired_title"
+msgstr "ödəniş düyməsinin vaxtı keçib"
+
+msgid "button_expired_text"
+msgstr "problemi həll etmək üçün tacirlə əlaqə saxlayın"
+
+msgid "button_status_not_active_title"
+msgstr "ödəniş linki deaktivdir"
+
+msgid "button_status_not_active_text"
+msgstr ""
+"zəhmət olmasa aktual ödəniş linkini almaq üçün satıcı ilə əlaqə saxlayın"
+
+msgid "sender_name"
+msgstr "adı"
+
+msgid "sender_familyName"
+msgstr "soyadı"
+
+msgid "bic"
+msgstr "bic"
+
+msgid "iban"
+msgstr "iban"
+
+msgid "wallets_google"
+msgstr ""
+
+msgid "wallets_card"
+msgstr ""
+
+msgid "wallets_apple"
+msgstr ""
+
+msgid "3ds_title"
+msgstr ""
+
+msgid "3ds_link"
+msgstr ""
+
+msgid "qr_desc_mobile_sk_viamo"
+msgstr ""
+
+msgid "qr_desc_desktop_sk_viamo"
+msgstr ""
+
+msgid "qr_button_sk_viamo"
+msgstr ""
+
+msgid "qr_app_apple_sk_viamo"
+msgstr ""
+
+msgid "qr_app_google_sk_viamo"
+msgstr ""
+
+msgid "ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "SORT_CODE"
+msgstr ""
+
+msgid "specin.address"
+msgstr ""
+
+msgid "specin.bic"
+msgstr ""
+
+msgid "specin.city"
+msgstr ""
+
+msgid "specin.consumerref"
+msgstr ""
+
+msgid "specin.dob"
+msgstr ""
+
+msgid "specin.email"
+msgstr ""
+
+msgid "specin.iban"
+msgstr ""
+
+msgid "specin.nationalid"
+msgstr ""
+
+msgid "specin.zipcode"
+msgstr ""
+
+msgid "search_country"
+msgstr ""
+
+msgid "credit_debit_cards"
+msgstr ""
+
+msgid "label_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "placeholder_ACCOUNT_NUMBER"
+msgstr ""
+
+msgid "label_SORT_CODE"
+msgstr ""
+
+msgid "placeholder_SORT_CODE"
+msgstr ""
+
+msgid "message_address_number"
+msgstr ""
+
+msgid "message_address_street"
+msgstr ""
+
+msgid "message_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_customer_name_utf8"
+msgstr ""
+
+msgid "placeholder_address_street"
+msgstr ""
+
+msgid "email"
+msgstr "email"
+
+msgid "currencies"
+msgstr ""
+
+msgid "number_of_payments"
+msgstr "ödənişlərin sayı"
+
+msgid "subscription_every"
+msgstr "hər biri"
+
+msgid "subscription_period"
+msgstr "vaxt müddəti"
+
+msgid "subscription_start_time"
+msgstr "starting on"
+
+msgid "subscription_end_time"
+msgstr "bitmə vaxtı"
+
+msgid "default_country"
+msgstr "ölkə üzrə axtarın"
+
+msgid "system_search"
+msgstr "bank adı, IBAN və ya BLZ ilə axtarın"
+
+msgid "card_number"
+msgstr "kart nömrəsi"
+
+msgid "expiry_date"
+msgstr "aa/ii"
+
+msgid "cvv2"
+msgstr "CVV2/CVC2"
+
+msgid "verification_code"
+msgstr "təsdiqedici kod"
+
+msgid "verification_amount"
+msgstr "doğrulama məbləği"
+
+msgid "promo_status_approve"
+msgstr ""
+
+msgid "promo_status_expired"
+msgstr ""
+
+msgid "promo_status_invalid"
+msgstr ""
+
+msgid "other_promotional_propositions_will_not_work"
+msgstr ""
+
+msgid "card_does_not_participate_in_discount_program"
+msgstr ""
